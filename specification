@@ -1,1660 +1,4644 @@
-Copyright © 2017 AQA and its licensors. All rights reserved.
-AQA retains the copyright on all its publications, including the specifications. However, schools and colleges registered with AQA are permitted to copy material from this specification for their own internal use.
-AQA Education (AQA) is a registered charity (number 1073334) and a company limited by guarantee registered in England and Wales (company number 3644723). Our registered address is AQA, Devas Street, Manchester M15 6EX.
-
-aqa.org.uk
-
-30029
-Get help and support
-Visit our website for information, guidance, support and resources at aqa.org.uk/
-You can talk directly to the Further Mathematics subject team
-
-E: maths@aqa.org.uk
-T: 0161 957 3852
-
-A-LEVEL
-FURTHER
-MATHEMATICS
-(7367)
-Specification
-For teaching from September 2017 onwards
-For exams in June 2019 onwards
-Version 1. 1 20 October 2017
-Contents
-1 Introduction
-1.1 Why choose AQA for A-level Further Mathematics
-1.2 Support and resources to help you teach
-2 Specification at a glance
-2.1 Subject content
-2.2 Assessments
-3 Subject content
-3.1 Overarching themes
-3.2 Compulsory content
-3.3 Optional application 1 – mechanics
-3.4 Optional application 2 – statistics
-3.5 Optional application 3 – discrete mathematics
-4 Scheme of assessment
-4.1 Aims
-4.2 Assessment objectives
-4.3 Assessment weightings
-5 General administration
-5.1 Entries and codes
-5.2 Overlaps with other qualifications
-5.3 Awarding grades and reporting results
-5.4 Re-sits and shelf life
-5.5 Previous learning and prerequisites
-5.6 Access to assessment: diversity and inclusion
-5.7 Working with AQA for the first time
-5.8 Private candidates
-5.9 Use of calculators
-6 Appendix A: mathematical notation
-6.1 Set notation
-6.2 Miscellaneous symbols
-6.3 Operations
-6.4 Functions
-6.5 Exponential and logarithmic functions
-6.6 Trigonometric functions
-6.7 Complex numbers (Further Maths only)
-6.9 Vectors
-6.10 Differential equations (Further Maths only)
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October
-6.11 Probability and statistics 48
-6.12 Mechanics 50
-7 Appendix B: mathematical formulae
-and identities 51
-
-Are you using the latest version of this specification?
-You will always find the most up-to-date version of this specification on our website at
-aqa.org.uk/
-We will write to you if there are significant changes to the specification.
-1 Introduction
-1.1 Why choose AQA for A-level Further Mathematics
-Maths is essential for many higher education courses and careers. We’ve worked closely with
-higher education to ensure this qualification gives your students the best possible chance to
-progress and realise their potential.
-
-Assessment design that rewards understanding
-
-We want students to see the links between different areas of maths and to apply their maths skills
-across all areas.
-Consistent assessments are essential, which is why we’ve worked hard to ensure our papers are
-clear and reward your students for their mathematical skills and knowledge.
-You can find out about all our Further Mathematics qualifications at aqa.org.uk/maths
-
-1.2 Support and resources to help you teach
-We’ve worked with experienced teachers to provide you with a range of resources that will help
-you confidently plan, teach and prepare for exams.
-
-Teaching resources
-
-Visit aqa.org.uk/7367 to see all our teaching resources. They include:
-
-route maps to allow you to plan how to deliver the specification in the way that will best suit you
-and your students
-teaching guidance to outline clearly the possible scope of teaching and learning
-lesson plans and homework sheets tailored to this specification
-tests and assessments that will allow you to measure the development of your students as they
-work through the content
-textbooks that are approved by AQA
-training courses to help you deliver AQA mathematics qualifications
-subject expertise courses for all teachers, from newly qualified teachers who are just getting
-started, to experienced teachers looking for fresh inspiration.
-Preparing for exams
-
-Visit aqa.org.uk/7367 for everything you need to prepare for our exams, including:
-
-past papers, mark schemes and examiners’ reports
-specimen papers and mark schemes for new courses
-Exampro: a searchable bank of past AQA exam questions
-example student answers with examiner commentaries.
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-Analyse your students' results with Enhanced Results Analysis (ERA)
-
-Find out which questions were the most challenging, how the results compare to previous years
-and where your students need to improve. ERA, our free online results analysis tool, will help you
-see where to focus your teaching. Register at aqa.org.uk/era
-For information about results, including maintaining standards over time, grade boundaries and our
-post-results services, visit aqa.org.uk/results
-
-Keep your skills up-to-date with professional development
-
-Wherever you are in your career, there’s always something new to learn. As well as subject
-specific training, we offer a range of courses to help boost your skills.
-
-Improve your teaching skills in areas including differentiation, teaching literacy and meeting
-Ofsted requirements.
-Prepare for a new role with our leadership and management courses.
-You can attend a course at venues around the country, in your school or online – whatever suits
-your needs and availability. Find out more at coursesandevents.aqa.org.uk
-Help and support
-
-Visit our website for information, guidance, support and resources at aqa.org.uk/
-If you'd like us to share news and information about this qualification, sign up for emails and
-updates at aqa.org.uk/from-
-Alternatively, you can call or email our subject team direct.
-E: maths@aqa.org.uk
-T: 0161 957 3852
-
-2 Specification at a glance
-This qualification is linear. Linear means that students will sit all their exams at the end of the
-course.
-This A-level qualification builds on the skills, knowledge and understanding set out in the whole
-GCSE (9–1) subject content for mathematics and the subject content for AS and A-level
-mathematics.
-
-2.1 Subject content
-All students must study this core content.
-
-OT1: Mathematical argument, language and proof (page 11)
-OT2: Mathematical problem solving (page 11)
-OT3: Mathematical modelling (page 12)
-Compulsory content (page 12)
-Students must study two of these options.
-Optional application 1 – mechanics (page 20)
-Optional application 2 – statistics (page 23)
-Optional application 3 – discrete mathematics (page 27)
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-2.2 Assessments
-Paper 1
-What's assessed
-May assess content from the following sections:
-A: Proof
-B: Complex numbers
-C: Matrices
-D: Further algebra and functions
-E: Further calculus
-F: Further vectors
-G: Polar coordinates
-H: Hyperbolic functions
-I: Differential equations
-J: Numerical methods
-How it's assessed
-Written exam: 2 hours
-100 marks
-33⅓ % of A-level
-Questions
-A mix of question styles, from short, single-mark questions to multi-step problems.
-Paper 2
-What's assessed
-May assess content from the following sections:
-A: Proof
-B: Complex numbers
-C: Matrices
-D: Further algebra and functions
-E: Further calculus
-F: Further vectors
-G: Polar coordinates
-H: Hyperbolic functions
-I: Differential equations
-J: Numerical methods
-How it's assessed
-Written exam: 2 hours
-100 marks
-33⅓ % of A-level
-Questions
-A mix of question styles, from short, single-mark questions to multi-step problems.
-Paper 3
-What's assessed
-One question paper answer booklet on Discrete and one question paper answer booklet on
-Statistics.
-How it's assessed
-Written exam: 2 hours
-100 marks
-33⅓ % of A-level
-Questions
-A mix of question styles, from short, single-mark questions to multi-step problems.
-OR
-
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-Paper 3
-What's assessed
-One question paper answer booklet on Statistics and one question paper answer booklet on
-Mechanics.
-How it's assessed
-Written exam: 2 hours
-100 marks
-33⅓ % of A-level
-Questions
-A mix of question styles, from short, single-mark questions to multi-step problems.
-OR
-
-Paper 3
-What's assessed
-One question paper answer booklet on Mechanics and one question paper answer booklet on
-Discrete.
-How it's assessed
-Written exam: 2 hours
-100 marks
-33⅓ % of A-level
-Questions
-A mix of question styles, from short, single-mark questions to multi-step problems.
-3 Subject content
-The subject content in sections A to J is compulsory for all students. Students must study two of
-the optional applications. The optional applications are mechanics (MA to ME), statistics (SA to
-SH) and discrete (DA to DG).
-
-3.1 Overarching themes
-A-level specifications in further mathematics must require students to demonstrate the overarching
-knowledge and skills contained in sections OT1 , OT2 and OT3. These must be applied, along with
-associated mathematical thinking and understanding, across the whole of the detailed content set
-out in sections A to DG.
-Appendix A sets out the mathematical notation that students are required to understand for this
-qualification. Appendix B sets out the mathematical formulae and identities students are required to
-use in this qualification. Further information is provided in the appendices.
-
-3.1.1 OT1: Mathematical argument, language and proof
-
-Content
-OT1.1 Construct and present mathematical arguments through appropriate use of
-diagrams; sketching graphs; logical deduction; precise statements involving
-correct use of symbols and connecting language, including: constant, coefficient,
-expression, equation, function, identity, index, term, variable.
-OT1.2 Understand and use mathematical language and syntax as set out in the content.
-OT1.3 Understand and use language and symbols associated with set theory, as set out
-in the content.
-OT1.4 Understand and use the definition of a function; domain and range of functions.
-OT1.5 Comprehend and critique mathematical arguments, proofs and justifications of
-methods and formulae, including those relating to applications of mathematics.
-3.1.2 OT2: Mathematical problem solving
-
-Content
-OT2.1 Recognise the underlying mathematical structure in a situation and simplify and
-abstract appropriately to enable problems to be solved.
-OT2.2 Construct extended arguments to solve problems presented in an unstructured
-form, including problems in context.
-OT2.3 Interpret and communicate solutions in the context of the original problem.
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-Content
-OT2.6 Understand the concept of a mathematical problem solving cycle, including
-specifying the problem, collecting information, processing and representing
-information and interpreting results, which may identify the need to repeat the
-cycle.
-OT2.7 Understand, interpret and extract information from diagrams and construct
-mathematical diagrams to solve problems, including in mechanics.
-3.1.3 OT3: Mathematical modelling
-
-Knowledge/skill
-OT3.1 Translate a situation in context into a mathematical model, making simplifying
-assumptions.
-OT3.2 Use a mathematical model with suitable inputs to engage with and explore
-situations (for a given model or a model constructed or selected by the student).
-OT3.3 Interpret the outputs of a mathematical model in the context of the original
-situation (for a given model or a model constructed or selected by the student).
-OT3.4 Understand that a mathematical model can be refined by considering its outputs
-and simplifying assumptions; evaluate whether the model is appropriate.
-OT3.5 Understand and use modelling assumptions.
-3.2 Compulsory content
-3.2.1 A: Proof
-
-Content
-A1 Construct proofs using mathematical induction; contexts include sums of series,
-divisibility, and powers of matrices.
-3.2.2 B: Complex numbers
-
-Content
-B1 Solve any quadratic equation with real coefficients; solve cubic or quartic
-equations with real coefficients (given sufficient information to deduce at least one
-root for cubics or at least one complex root or quadratic factor for quartics).
-Content
-B2 Add, subtract, multiply and divide complex numbers in the form x + i y with x and
-y real; understand and use the terms ‘real part’ and ‘imaginary part’.
-Content
-B3 Understand and use the complex conjugate; know that non-real roots of
-polynomial equations with real coefficients occur in conjugate pairs.
-Knowledge/skill
-B4 Use and interpret Argand diagrams.
-Content
-B5 Convert between the Cartesian form and the modulus-argument form of a
-complex number (knowledge of radians is assumed).
-Content
-B6 Multiply and divide complex numbers in modulus-argument form (knowledge of
-radians and compound angle formulae is assumed).
-Content
-B7 Construct and interpret simple loci in the Argand diagram such as z − a > r and
-arg z − a =𝐀 (knowledge of radians is assumed).
-Knowledge/skill
-B8 Understand de Moivre’s theorem and use it to find multiple angle formulae and
-sums of series.
-Content
-B9 Know and use the definition ei𝐀= cos𝐀+isin𝐀 and the form z = r ei𝐀
-Content
-B10 Find the n distinct n th roots of r ei𝐀 for r ≠ 0 and know that they form the vertices
-of a regular n -gon in the Argand diagram.
-Content
-B11 Use complex roots of unity to solve geometric problems.
-3.2.3 C: Matrices
-
-Content
-C1 Add, subtract and multiply conformable matrices; multiply a matrix by a scalar.
-Content
-C2 Understand and use zero and identity matrices.
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-Content
-C3 Use matrices to represent linear transformations in 2D; successive
-transformations; single transformations in 3D (3D transformations confined to
-reflection in one of x = 0, y = 0, z = 0 or rotation about one of the coordinate axes)
-(knowledge of 3D vectors is assumed).
-Content
-C4 Find invariant points and lines for a linear transformation.
-
-Content
-C5 Calculate determinants of 2 × 2 and 3 × 3 matrices and interpret as scale factors,
-including the effect on orientation.
-Content
-C6 Understand and use singular and non-singular matrices; properties of inverse
-matrices.
-Calculate and use the inverse of non-singular 2 × 2 matrices and 3 × 3 matrices.
-
-Content
-C7 Solve three linear simultaneous equations in three variables by use of the inverse
-matrix.
-Content
-C8 Interpret geometrically the solution and failure of solution of three simultaneous
-linear equations.
-Content
-C9 Factorisation of determinants using row and column operations.
-
-Content
-C10 Find eigenvalues and eigenvectors of 2 × 2 and 3 × 3 matrices.
-
-Find and use the characteristic equation.
-Understand the geometrical significance of eigenvalues and eigenvectors.
-Content
-C11 Diagonalisation of matrices; M = UDU -1; M n = UD n U -1; when eigenvalues are
-real.
-
-3.2.4 D: Further algebra and functions
-
-Content
-D1 Understand and use the relationship between roots and coefficients of polynomial
-equations up to quartic equations.
-Content
-D2 Form a polynomial equation whose roots are a linear transformation of the roots of
-a given polynomial equation (of at least cubic degree).
-Content
-D3 Understand and use formulae for the sums of integers, squares and cubes and
-use these to sum other series.
-Content
-D4 Understand and use the method of differences for summation of series including
-use of partial fractions.
-Content
-D5 Find the Maclaurin series of a function including the general term.
-Content
-D6 Recognise and use the Maclaurin series for e x , ln1 + x , sin x , cos x , and
-1 + xn , and be aware of the range of values of x for which they are valid (proof
-not required).
-Content
-D7 Evaluation of limits using Maclaurin series or l'Hôpital's rule.
-Content
-D8 Inequalities involving polynomial equations (cubic and quartic).
-Content
-D9 Solving inequalities such as axcx ++ db < ex + f algebraically.
-Content
-D10 Modulus of functions and associated inequalities.
-Content
-D11 Graphs of y = f x , y = 1
-f x for given y =f x
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-Content
-D12 Graphs of rational functions of form ax + b
-cx + d ; asymptotes, points of intersection with
-coordinate axes or other straight lines; associated inequalities.
-Content
-D13 Graphs of rational functions of form ax^2 + bx + c
-d x^2 + ex + f , including cases when some of
-these coefficients are zero; asymptotes parallel to coordinate axes; oblique
-asymptotes.
-Content
-D14 Using quadratic theory (not calculus) to find the possible values of the function
-and coordinates of the stationary points of the graph for rational functions of form
-ax^2 + bx + c
-d x^2 + ex + f
-Content
-D15 Sketching graphs of curves with equations y (^2) = 4 ax , x^2
-a^2 +
-y^2
-b^2 = 1 ,^
-x^2
-a^2 −
-y^2
-b^2 = 1 ,
-xy = c^2 including intercepts with axes and equations of asymptotes of hyperbolas.
-Content
-D16 Single transformations of curves involving translations, stretches parallel to
-coordinate axes and reflections in the coordinate axes and the lines y = ± x.
-Extend to composite transformations including rotations and enlargements.
-3.2.5 E: Further calculus
-Content
-E1 Evaluate improper integrals where either the integrand is undefined at a value in
-the range of integration or the range of integration extends to infinity.
-Content
-E2 Derive formulae for and calculate volumes of revolution.
-Content
-E3 Understand and evaluate the mean value of a function.
-Content
-E4 Integrate using partial fractions (extend to quadratic factors ax^2 + c in the
-denominator).
-
-Content
-E5 Differentiate inverse trigonometric functions.
-Content
-E6 Integrate functions of the form a (^2) − x 2 −^12 and a (^2) + x 2 − (^1) and be able to choose
-trigonometric substitutions to integrate associated functions.
-Content
-E7 Arc length and area of surface of revolution for curves expressed in Cartesian or
-parametric coordinates.
-Content
-E8 Derivation and use of reduction formulae for integration.
-Content
-E9 The limits lim
-x ∞
-xk e− x and lim
-x 0
-xk ln x where k > 0 , applied to improper integrals
-3.2.6 F: Further vectors
-Content
-F1 Understand and use the vector and Cartesian forms of an equation of a straight
-line in 3D.
-Content
-F2 Understand and use the vector and Cartesian forms of the equation of a plane.
-Content
-F3 Calculate the scalar product and use it to calculate the angle between two lines, to
-express the equation of a plane, and to calculate the angle between two planes
-and the angle between a line and a plane.
-Content
-F4 Check whether vectors are perpendicular by using the scalar product.
-Content
-F5 Calculate and understand the properties of the vector product.
-Understand and use the equation of a straight line in the form ( r – a ) × b = 0.
-Use vector products to find the area of a triangle.
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-
-Content
-F6 Find the intersection of two lines.
-Find the intersection of a line and a plane.
-Calculate the perpendicular distance between two lines, from a point to a line and
-from a point to a plane.
-3.2.7 G: Polar coordinates
-
-Content
-G1 Understand and use polar coordinates and be able to convert between polar and
-Cartesian coordinates.
-Content
-G2 Sketch curves with r given as a function of 𝐀 , including use of trigonometric
-functions.
-Content
-G3 Find the area enclosed by a polar curve.
-3.2.8 H: Hyperbolic functions
-
-Content
-H1 Understand the definitions of hyperbolic functions sinh x , cosh x and tanh x ,
-including their domains and ranges, and be able to sketch their graphs.
-Understand the definitions of hyperbolic functions sech x , cosech x and coth x ,
-including their domains and ranges.
-Content
-H2 Differentiate and integrate hyperbolic functions.
-Content
-H3 Understand and be able to use the definitions of the inverse hyperbolic functions
-and their domains and ranges.
-Content
-H4 Derive and use the logarithmic forms of the inverse hyperbolic functions.
-Content
-H5 Integrate functions of the form x (^2) + a 2 −^12 and x (^2) − a 2 −^12 and be able to choose
-substitutions to integrate associated functions.
-
-Content
-H6 Understand and use tanh x ≡sinh x
+# AQA A-Level Further Mathematics (7367) — Specification Reference
+> **Qualification**: AQA A-Level Further Mathematics  
+> **Code**: 7367  
+> **First teaching**: September 2017 | **First exams**: June 2019  
+> **Source**: AQA Specification v1.1, 20 October 2017  
+---
+## Table of Contents
+- [1. Assessment Structure](#1-assessment-structure)
+  - [1.1 Paper 1 — Compulsory Pure](#11-paper-1--compulsory-pure)
+  - [1.2 Paper 2 — Compulsory Pure](#12-paper-2--compulsory-pure)
+  - [1.3 Paper 3 — Optional Applications](#13-paper-3--optional-applications)
+  - [1.4 Assessment Objectives](#14-assessment-objectives)
+- [2. Overarching Themes](#2-overarching-themes)
+  - [2.1 OT1: Mathematical Argument, Language and Proof](#21-ot1-mathematical-argument-language-and-proof)
+  - [2.2 OT2: Mathematical Problem Solving](#22-ot2-mathematical-problem-solving)
+  - [2.3 OT3: Mathematical Modelling](#23-ot3-mathematical-modelling)
+- [3. Compulsory Content](#3-compulsory-content)
+  - [3.1 A: Proof](#31-a-proof)
+  - [3.2 B: Complex Numbers](#32-b-complex-numbers)
+  - [3.3 C: Matrices](#33-c-matrices)
+  - [3.4 D: Further Algebra and Functions](#34-d-further-algebra-and-functions)
+  - [3.5 E: Further Calculus](#35-e-further-calculus)
+  - [3.6 F: Further Vectors](#36-f-further-vectors)
+  - [3.7 G: Polar Coordinates](#37-g-polar-coordinates)
+  - [3.8 H: Hyperbolic Functions](#38-h-hyperbolic-functions)
+  - [3.9 I: Differential Equations](#39-i-differential-equations)
+  - [3.10 J: Numerical Methods](#310-j-numerical-methods)
+- [4. Optional Application 1 — Mechanics](#4-optional-application-1--mechanics)
+  - [4.1 MA: Dimensional Analysis](#41-ma-dimensional-analysis)
+  - [4.2 MB: Momentum and Collisions](#42-mb-momentum-and-collisions)
+  - [4.3 MC: Work, Energy and Power](#43-mc-work-energy-and-power)
+  - [4.4 MD: Circular Motion](#44-md-circular-motion)
+  - [4.5 ME: Centres of Mass and Moments](#45-me-centres-of-mass-and-moments)
+- [5. Optional Application 2 — Statistics](#5-optional-application-2--statistics)
+  - [5.1 SA: Discrete Random Variables and Expectation](#51-sa-discrete-random-variables-and-expectation)
+  - [5.2 SB: Poisson Distribution](#52-sb-poisson-distribution)
+  - [5.3 SC: Type I and Type II Errors](#53-sc-type-i-and-type-ii-errors)
+  - [5.4 SD: Continuous Random Variables](#54-sd-continuous-random-variables)
+  - [5.5 SE: Chi-Squared Tests for Association](#55-se-chi-squared-tests-for-association)
+  - [5.6 SF: Exponential Distribution](#56-sf-exponential-distribution)
+  - [5.7 SG: Inference — One-Sample t-Distribution](#57-sg-inference--one-sample-t-distribution)
+  - [5.8 SH: Confidence Intervals](#58-sh-confidence-intervals)
+- [6. Optional Application 3 — Discrete Mathematics](#6-optional-application-3--discrete-mathematics)
+  - [6.1 DA: Graphs](#61-da-graphs)
+  - [6.2 DB: Networks](#62-db-networks)
+  - [6.3 DC: Network Flows](#63-dc-network-flows)
+  - [6.4 DD: Linear Programming](#64-dd-linear-programming)
+  - [6.5 DE: Critical Path Analysis](#65-de-critical-path-analysis)
+  - [6.6 DF: Game Theory for Zero-Sum Games](#66-df-game-theory-for-zero-sum-games)
+  - [6.7 DG: Binary Operations](#67-dg-binary-operations)
+- [7. Appendix A — Mathematical Notation](#7-appendix-a--mathematical-notation)
+  - [7.1 Set Notation](#71-set-notation)
+  - [7.2 Miscellaneous Symbols](#72-miscellaneous-symbols)
+  - [7.3 Operations](#73-operations)
+  - [7.4 Functions](#74-functions)
+  - [7.5 Exponential and Logarithmic Functions](#75-exponential-and-logarithmic-functions)
+  - [7.6 Trigonometric Functions](#76-trigonometric-functions)
+  - [7.7 Complex Numbers](#77-complex-numbers)
+  - [7.8 Matrices](#78-matrices)
+  - [7.9 Vectors](#79-vectors)
+  - [7.10 Differential Equations](#710-differential-equations)
+  - [7.11 Probability and Statistics](#711-probability-and-statistics)
+  - [7.12 Mechanics](#712-mechanics)
+- [8. Appendix B — Mathematical Formulae and Identities](#8-appendix-b--mathematical-formulae-and-identities)
+  - [8.1 Pure Mathematics](#81-pure-mathematics)
+  - [8.2 Mechanics](#82-mechanics)
+  - [8.3 Statistics](#83-statistics)
+---
+## 1. Assessment Structure
+This qualification is **linear** — students sit all exams at the end of the course.
+### 1.1 Paper 1 — Compulsory Pure
+|
+ Detail 
+|
+ Value 
+|
+|
+---
+|
+---
+|
+|
+**
+Duration
+**
+|
+ 2 hours 
+|
+|
+**
+Marks
+**
+|
+ 100 
+|
+|
+**
+Weighting
+**
+|
+ 33⅓% of A-level 
+|
+|
+**
+Content
+**
+|
+ Sections A–J (Proof, Complex Numbers, Matrices, Further Algebra & Functions, Further Calculus, Further Vectors, Polar Coordinates, Hyperbolic Functions, Differential Equations, Numerical Methods) 
+|
+|
+**
+Question style
+**
+|
+ Mix of short single-mark questions to multi-step problems 
+|
+### 1.2 Paper 2 — Compulsory Pure
+|
+ Detail 
+|
+ Value 
+|
+|
+---
+|
+---
+|
+|
+**
+Duration
+**
+|
+ 2 hours 
+|
+|
+**
+Marks
+**
+|
+ 100 
+|
+|
+**
+Weighting
+**
+|
+ 33⅓% of A-level 
+|
+|
+**
+Content
+**
+|
+ Sections A–J (same as Paper 1) 
+|
+|
+**
+Question style
+**
+|
+ Mix of short single-mark questions to multi-step problems 
+|
+### 1.3 Paper 3 — Optional Applications
+|
+ Detail 
+|
+ Value 
+|
+|
+---
+|
+---
+|
+|
+**
+Duration
+**
+|
+ 2 hours 
+|
+|
+**
+Marks
+**
+|
+ 100 (50 per option) 
+|
+|
+**
+Weighting
+**
+|
+ 33⅓% of A-level 
+|
+|
+**
+Content
+**
+|
+ Two of: Mechanics (MA–ME), Statistics (SA–SH), Discrete Mathematics (DA–DG) 
+|
+|
+**
+Question style
+**
+|
+ Mix of short single-mark questions to multi-step problems 
+|
+**Valid Paper 3 combinations:**
+- Discrete + Statistics
+- Statistics + Mechanics
+- Mechanics + Discrete
+### 1.4 Assessment Objectives
+|
+ AO 
+|
+ Description 
+|
+ Paper 1 
+|
+ Paper 2 
+|
+ Paper 3 
+|
+ Overall 
+|
+|
+---
+|
+---
+|
+---
+|
+---
+|
+---
+|
+---
+|
+|
+**
+AO1
+**
+|
+ Use and apply standard techniques (routine procedures, recall facts/terminology/definitions) 
+|
+ 55% 
+|
+ 55% 
+|
+ 40% 
+|
+**
+50%
+**
+|
+|
+**
+AO2
+**
+|
+ Reason, interpret and communicate mathematically (proofs, deductions, mathematical language) 
+|
+ 25% 
+|
+ 25% 
+|
+ 25% 
+|
+**
+25%
+**
+|
+|
+**
+AO3
+**
+|
+ Solve problems within mathematics and in other contexts (modelling, interpretation, evaluation) 
+|
+ 20% 
+|
+ 20% 
+|
+ 35% 
+|
+**
+25%
+**
+|
+---
+## 2. Overarching Themes
+These themes apply across **all** content in sections A–DG.
+### 2.1 OT1: Mathematical Argument, Language and Proof
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+OT1.1
+**
+|
+ Construct and present mathematical arguments through diagrams, graph sketching, logical deduction, and precise statements using correct symbols and connecting language (constant, coefficient, expression, equation, function, identity, index, term, variable). 
+|
+|
+**
+OT1.2
+**
+|
+ Understand and use mathematical language and syntax as set out in the content. 
+|
+|
+**
+OT1.3
+**
+|
+ Understand and use language and symbols associated with set theory. 
+|
+|
+**
+OT1.4
+**
+|
+ Understand and use the definition of a function; domain and range of functions. 
+|
+|
+**
+OT1.5
+**
+|
+ Comprehend and critique mathematical arguments, proofs and justifications of methods and formulae, including those relating to applications. 
+|
+### 2.2 OT2: Mathematical Problem Solving
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+OT2.1
+**
+|
+ Recognise the underlying mathematical structure in a situation and simplify/abstract appropriately. 
+|
+|
+**
+OT2.2
+**
+|
+ Construct extended arguments to solve unstructured problems, including problems in context. 
+|
+|
+**
+OT2.3
+**
+|
+ Interpret and communicate solutions in the context of the original problem. 
+|
+|
+**
+OT2.6
+**
+|
+ Understand the mathematical problem-solving cycle: specifying the problem → collecting information → processing/representing information → interpreting results (may repeat). 
+|
+|
+**
+OT2.7
+**
+|
+ Understand, interpret and extract information from diagrams; construct mathematical diagrams to solve problems, including in mechanics. 
+|
+### 2.3 OT3: Mathematical Modelling
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+OT3.1
+**
+|
+ Translate a situation in context into a mathematical model, making simplifying assumptions. 
+|
+|
+**
+OT3.2
+**
+|
+ Use a mathematical model with suitable inputs to engage with and explore situations. 
+|
+|
+**
+OT3.3
+**
+|
+ Interpret the outputs of a mathematical model in the context of the original situation. 
+|
+|
+**
+OT3.4
+**
+|
+ Understand that a model can be refined by considering its outputs and simplifying assumptions; evaluate whether the model is appropriate. 
+|
+|
+**
+OT3.5
+**
+|
+ Understand and use modelling assumptions. 
+|
+---
+## 3. Compulsory Content
+### 3.1 A: Proof
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+A1
+**
+|
+ Construct proofs using 
+**
+mathematical induction
+**
+. Contexts include sums of series, divisibility, and powers of matrices. 
+|
+### 3.2 B: Complex Numbers
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+B1
+**
+|
+ Solve any quadratic equation with real coefficients. Solve cubic or quartic equations with real coefficients (given sufficient information to deduce at least one root for cubics or at least one complex root or quadratic factor for quartics). 
+|
+|
+**
+B2
+**
+|
+ Add, subtract, multiply and divide complex numbers in the form 
+`x + iy`
+ with x and y real. Understand and use the terms 
+**
+real part
+**
+ and 
+**
+imaginary part
+**
+. 
+|
+|
+**
+B3
+**
+|
+ Understand and use the 
+**
+complex conjugate
+**
+. Know that non-real roots of polynomial equations with real coefficients occur in 
+**
+conjugate pairs
+**
+. 
+|
+|
+**
+B4
+**
+|
+ Use and interpret 
+**
+Argand diagrams
+**
+. 
+|
+|
+**
+B5
+**
+|
+ Convert between 
+**
+Cartesian form
+**
+ and 
+**
+modulus-argument form
+**
+ of a complex number (knowledge of radians assumed). 
+|
+|
+**
+B6
+**
+|
+ Multiply and divide complex numbers in 
+**
+modulus-argument form
+**
+ (knowledge of radians and compound angle formulae assumed). 
+|
+|
+**
+B7
+**
+|
+ Construct and interpret simple 
+**
+loci
+**
+ in the Argand diagram such as 
+`|z − a| > r`
+ and 
+`arg(z − a) = θ`
+ (knowledge of radians assumed). 
+|
+|
+**
+B8
+**
+|
+ Understand 
+**
+de Moivre's theorem
+**
+ and use it to find multiple angle formulae and sums of series. 
+|
+|
+**
+B9
+**
+|
+ Know and use the definition 
+`e^(iθ) = cos θ + i sin θ`
+ and the form 
+`z = re^(iθ)`
+. 
+|
+|
+**
+B10
+**
+|
+ Find the n distinct 
+**
+nth roots
+**
+ of 
+`re^(iθ)`
+ for r ≠ 0 and know that they form the vertices of a 
+**
+regular n-gon
+**
+ in the Argand diagram. 
+|
+|
+**
+B11
+**
+|
+ Use 
+**
+complex roots of unity
+**
+ to solve geometric problems. 
+|
+### 3.3 C: Matrices
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+C1
+**
+|
+ Add, subtract and multiply 
+**
+conformable matrices
+**
+; multiply a matrix by a scalar. 
+|
+|
+**
+C2
+**
+|
+ Understand and use 
+**
+zero
+**
+ and 
+**
+identity
+**
+ matrices. 
+|
+|
+**
+C3
+**
+|
+ Use matrices to represent 
+**
+linear transformations
+**
+ in 2D; successive transformations; single transformations in 3D (3D confined to reflection in one of x = 0, y = 0, z = 0 or rotation about one of the coordinate axes). Knowledge of 3D vectors assumed. 
+|
+|
+**
+C4
+**
+|
+ Find 
+**
+invariant points
+**
+ and 
+**
+invariant lines
+**
+ for a linear transformation. 
+|
+|
+**
+C5
+**
+|
+ Calculate 
+**
+determinants
+**
+ of 2×2 and 3×3 matrices and interpret as 
+**
+scale factors
+**
+, including the effect on orientation. 
+|
+|
+**
+C6
+**
+|
+ Understand and use 
+**
+singular
+**
+ and 
+**
+non-singular
+**
+ matrices; properties of inverse matrices. Calculate and use the 
+**
+inverse
+**
+ of non-singular 2×2 and 3×3 matrices. 
+|
+|
+**
+C7
+**
+|
+ Solve three linear 
+**
+simultaneous equations
+**
+ in three variables by use of the inverse matrix. 
+|
+|
+**
+C8
+**
+|
+ Interpret 
+**
+geometrically
+**
+ the solution and failure of solution of three simultaneous linear equations. 
+|
+|
+**
+C9
+**
+|
+**
+Factorisation of determinants
+**
+ using row and column operations. 
+|
+|
+**
+C10
+**
+|
+ Find 
+**
+eigenvalues
+**
+ and 
+**
+eigenvectors
+**
+ of 2×2 and 3×3 matrices. Find and use the 
+**
+characteristic equation
+**
+. Understand the geometrical significance of eigenvalues and eigenvectors. 
+|
+|
+**
+C11
+**
+|
+**
+Diagonalisation
+**
+ of matrices: 
+`M = UDU⁻¹`
+; 
+`Mⁿ = UDⁿU⁻¹`
+; when eigenvalues are real. 
+|
+### 3.4 D: Further Algebra and Functions
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+D1
+**
+|
+ Understand and use the relationship between 
+**
+roots and coefficients
+**
+ of polynomial equations up to quartic equations. 
+|
+|
+**
+D2
+**
+|
+ Form a polynomial equation whose roots are a 
+**
+linear transformation
+**
+ of the roots of a given polynomial equation (of at least cubic degree). 
+|
+|
+**
+D3
+**
+|
+ Understand and use formulae for the 
+**
+sums of integers, squares and cubes
+**
+ and use these to sum other series. 
+|
+|
+**
+D4
+**
+|
+ Understand and use the 
+**
+method of differences
+**
+ for summation of series including use of partial fractions. 
+|
+|
+**
+D5
+**
+|
+ Find the 
+**
+Maclaurin series
+**
+ of a function including the general term. 
+|
+|
+**
+D6
+**
+|
+ Recognise and use the Maclaurin series for 
+`eˣ`
+, 
+`ln(1 + x)`
+, 
+`sin x`
+, 
+`cos x`
+, and 
+`(1 + x)ⁿ`
+, and be aware of the 
+**
+range of values of x
+**
+ for which they are valid (proof not required). 
+|
+|
+**
+D7
+**
+|
+ Evaluation of 
+**
+limits
+**
+ using Maclaurin series or 
+**
+l'Hôpital's rule
+**
+. 
+|
+|
+**
+D8
+**
+|
+**
+Inequalities
+**
+ involving polynomial equations (cubic and quartic). 
+|
+|
+**
+D9
+**
+|
+ Solving inequalities such as 
+`(ax + b)/(cx + d) < ex + f`
+ algebraically. 
+|
+|
+**
+D10
+**
+|
+**
+Modulus of functions
+**
+ and associated inequalities. 
+|
+|
+**
+D11
+**
+|
+ Graphs of 
+`y = |f(x)|`
+, 
+`y = 1/f(x)`
+ for given 
+`y = f(x)`
+. 
+|
+|
+**
+D12
+**
+|
+ Graphs of rational functions of form 
+`(ax + b)/(cx + d)`
+; asymptotes, points of intersection with coordinate axes or other straight lines; associated inequalities. 
+|
+|
+**
+D13
+**
+|
+ Graphs of rational functions of form 
+`(ax² + bx + c)/(dx² + ex + f)`
+, including cases when some coefficients are zero; asymptotes parallel to coordinate axes; 
+**
+oblique asymptotes
+**
+. 
+|
+|
+**
+D14
+**
+|
+ Using 
+**
+quadratic theory
+**
+ (not calculus) to find possible values of the function and coordinates of stationary points for rational functions of form 
+`(ax² + bx + c)/(dx² + ex + f)`
+. 
+|
+|
+**
+D15
+**
+|
+ Sketching graphs of curves: 
+**
+parabola
+**
+`y² = 4ax`
+, 
+**
+ellipse
+**
+`x²/a² + y²/b² = 1`
+, 
+**
+hyperbola
+**
+`x²/a² − y²/b² = 1`
+, 
+**
+rectangular hyperbola
+**
+`xy = c²`
+ including intercepts and equations of asymptotes. 
+|
+|
+**
+D16
+**
+|
+ Single transformations of curves (translations, stretches, reflections in coordinate axes and 
+`y = ±x`
+). Extend to composite transformations including 
+**
+rotations
+**
+ and 
+**
+enlargements
+**
+. 
+|
+### 3.5 E: Further Calculus
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+E1
+**
+|
+ Evaluate 
+**
+improper integrals
+**
+ where the integrand is undefined at a value in the range of integration or the range extends to infinity. 
+|
+|
+**
+E2
+**
+|
+ Derive formulae for and calculate 
+**
+volumes of revolution
+**
+. 
+|
+|
+**
+E3
+**
+|
+ Understand and evaluate the 
+**
+mean value
+**
+ of a function. 
+|
+|
+**
+E4
+**
+|
+ Integrate using 
+**
+partial fractions
+**
+ (extend to quadratic factors 
+`ax² + c`
+ in the denominator). 
+|
+|
+**
+E5
+**
+|
+ Differentiate 
+**
+inverse trigonometric functions
+**
+. 
+|
+|
+**
+E6
+**
+|
+ Integrate functions of the form 
+`(a² − x²)^(−1/2)`
+ and 
+`(a² + x²)⁻¹`
+ and be able to choose 
+**
+trigonometric substitutions
+**
+ to integrate associated functions. 
+|
+|
+**
+E7
+**
+|
+**
+Arc length
+**
+ and 
+**
+area of surface of revolution
+**
+ for curves expressed in Cartesian or parametric coordinates. 
+|
+|
+**
+E8
+**
+|
+ Derivation and use of 
+**
+reduction formulae
+**
+ for integration. 
+|
+|
+**
+E9
+**
+|
+ The limits 
+`lim(x→∞) xᵏe⁻ˣ`
+ and 
+`lim(x→0) xᵏ ln x`
+ where k > 0, applied to improper integrals. 
+|
+### 3.6 F: Further Vectors
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+F1
+**
+|
+ Understand and use the 
+**
+vector and Cartesian forms
+**
+ of an equation of a straight line in 3D. 
+|
+|
+**
+F2
+**
+|
+ Understand and use the 
+**
+vector and Cartesian forms
+**
+ of the equation of a plane. 
+|
+|
+**
+F3
+**
+|
+ Calculate the 
+**
+scalar product
+**
+ and use it to calculate the angle between two lines, express the equation of a plane, and calculate the angle between two planes and between a line and a plane. 
+|
+|
+**
+F4
+**
+|
+ Check whether vectors are 
+**
+perpendicular
+**
+ using the scalar product. 
+|
+|
+**
+F5
+**
+|
+ Calculate and understand properties of the 
+**
+vector product
+**
+. Understand and use 
+`(r − a) × b = 0`
+. Use vector products to find the 
+**
+area of a triangle
+**
+. 
+|
+|
+**
+F6
+**
+|
+ Find the 
+**
+intersection
+**
+ of two lines; intersection of a line and a plane. Calculate the 
+**
+perpendicular distance
+**
+ between two lines, from a point to a line, and from a point to a plane. 
+|
+### 3.7 G: Polar Coordinates
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+G1
+**
+|
+ Understand and use 
+**
+polar coordinates
+**
+ and convert between polar and Cartesian coordinates. 
+|
+|
+**
+G2
+**
+|
+ Sketch curves with 
+`r`
+ given as a function of 
+`θ`
+, including use of trigonometric functions. 
+|
+|
+**
+G3
+**
+|
+ Find the 
+**
+area enclosed
+**
+ by a polar curve. 
+|
+### 3.8 H: Hyperbolic Functions
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+H1
+**
+|
+ Understand the definitions of 
+**
+sinh x
+**
+, 
+**
 cosh x
-Understand and use cosh^2 x −sinh^2 x ≡ 1 ; sech^2 x ≡ 1 −tanh^2 x and
-cosech^2 x ≡coth^2 x − 1 , cosh2 x ≡cosh^2 x + sinh^2 x , sinh2 x ≡2sinh x cosh x
-Content
-H7 Construct proofs involving hyperbolic functions and identities.
-3.2.9 I: Differential equations
-
-Content
-I1 Find and use an integrating factor to solve differential equations of the form
-d y
-d x + P xy = Q x and recognise when it is appropriate to do so.
-Content
-I2 Find both general and particular solutions of differential equations.
-Content
-I3 Use differential equations in modelling in kinematics and in other contexts.
-Content
-I4 Solve differential equations of the form y " + ay ′ + by = 0 where a and b are
-constants, by using the auxiliary equation.
-Content
-I5 Solve differential equations of the form y " + ay ′ + by =f x where a and b are
-constants by solving the homogeneous case and adding a particular integral to
-the complementary function (in cases where f x is a polynomial, exponential or
-trigonometric function).
-Content
-I6 Understand and use the relationship between the cases when the discriminant of
-the auxiliary equation is positive, zero and negative and the form of solution of the
-differential equation.
-Content
-I7 Solve the equation for simple harmonic motion x ̈=−𝐀 (^2) x and relate the solution to
-the motion.
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-
-Content
-I8 Model damped oscillations using 2nd order differential equations and interpret
-their solutions.
-Understand light, critical and heavy damping and be able to determine when each
-will occur.
-Content
-I9 Analyse and interpret models of situations with one independent variable and two
-dependent variables as a pair of coupled 1st order simultaneous equations and be
-able to solve them, for example predator-prey models.
-Content
-I10 Use of Hooke’s Law with T = kx to formulate a differential equation for simple
-harmonic motion, where k is a constant.
-Content
-I11 Use models for damped motion where the damping force is proportional to the
-velocity.
-3.2.10 J: Numerical methods
-
-Content
-J1 Mid-ordinate rule and Simpson’s rule for integration.
-Content
-J2 Euler’s step by step method for solving first order differential equations.
-Content
-J3 Improved Euler method for solving first order differential equations.
-yr + 1= yr − 1 + 2 h f xryr , xr + 1= xr + h
-3.3 Optional application 1 – mechanics
-3.3.1 MA: Dimensional analysis
-
-Content
-MA1 Finding dimensions of quantities; checking for dimensional consistency.
-Content
-MA2 Prediction of formulae; finding powers in potential formulae.
-3.3.2 MB: Momentum and collisions
-
-Content
-MB1 Conservation of momentum for linear motion and cases where velocities are given
-as one or two dimensional vectors (problems which require resolving).
-Content
-MB2 Coefficient of restitution and Newton’s Experimental Law. Use in direct collisions
-and impacts with a fixed smooth surface. Problems which require resolving.
-Content
-MB3 Impulse and its relation to momentum. Use of Ft = mv − mu. Problems which
-require resolving.
-Content
-MB4 Impulse for variable forces. One dimension only. Use of I =∫ F d t.
-3.3.3 MC: Work, energy and power
-
-Content
-MC1 Work done by a force acting in the direction of motion or directly opposing the
-motion. Use of W D = Fd cos𝐀
-Content
-MC2 Gravitational potential energy. Use in conservation of energy problems.
-Content
-MC3 Kinetic energy. Use in conservation of energy problems.
-Content
-MC4 Hooke’s Law including using modulus of elasticity.
-Use of T = kx or T =𝐀 lx
-Content
-MC5 Work done by a variable force. Use of W D =∫ F d x.
-Use in conservation of energy problems.
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-Content
+**
+ and 
+**
+tanh x
+**
+, including domains, ranges, and graphs. Understand 
+**
+sech x
+**
+, 
+**
+cosech x
+**
+ and 
+**
+coth x
+**
+, including domains and ranges. 
+|
+|
+**
+H2
+**
+|
+**
+Differentiate
+**
+ and 
+**
+integrate
+**
+ hyperbolic functions. 
+|
+|
+**
+H3
+**
+|
+ Understand and use the definitions of the 
+**
+inverse hyperbolic functions
+**
+ and their domains and ranges. 
+|
+|
+**
+H4
+**
+|
+ Derive and use the 
+**
+logarithmic forms
+**
+ of the inverse hyperbolic functions. 
+|
+|
+**
+H5
+**
+|
+ Integrate functions of the form 
+`(x² + a²)^(−1/2)`
+ and 
+`(x² − a²)^(−1/2)`
+ and choose substitutions to integrate associated functions. 
+|
+|
+**
+H6
+**
+|
+ Understand and use: 
+`tanh x ≡ sinh x / cosh x`
+; 
+`cosh²x − sinh²x ≡ 1`
+; 
+`sech²x ≡ 1 − tanh²x`
+; 
+`cosech²x ≡ coth²x − 1`
+; 
+`cosh 2x ≡ cosh²x + sinh²x`
+; 
+`sinh 2x ≡ 2 sinh x cosh x`
+. 
+|
+|
+**
+H7
+**
+|
+ Construct 
+**
+proofs
+**
+ involving hyperbolic functions and identities. 
+|
+### 3.9 I: Differential Equations
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+I1
+**
+|
+ Find and use an 
+**
+integrating factor
+**
+ to solve differential equations of the form 
+`dy/dx + P(x)y = Q(x)`
+. 
+|
+|
+**
+I2
+**
+|
+ Find both 
+**
+general
+**
+ and 
+**
+particular
+**
+ solutions of differential equations. 
+|
+|
+**
+I3
+**
+|
+ Use differential equations in 
+**
+modelling
+**
+ in kinematics and other contexts. 
+|
+|
+**
+I4
+**
+|
+ Solve differential equations of the form 
+`y″ + ay′ + by = 0`
+ where a, b are constants using the 
+**
+auxiliary equation
+**
+. 
+|
+|
+**
+I5
+**
+|
+ Solve 
+`y″ + ay′ + by = f(x)`
+ by solving the homogeneous case and adding a 
+**
+particular integral
+**
+ to the 
+**
+complementary function
+**
+ (where f(x) is a polynomial, exponential, or trigonometric function). 
+|
+|
+**
+I6
+**
+|
+ Understand the relationship between the 
+**
+discriminant
+**
+ of the auxiliary equation (positive, zero, negative) and the form of solution. 
+|
+|
+**
+I7
+**
+|
+ Solve the equation for 
+**
+simple harmonic motion
+**
+`ẍ = −ω²x`
+ and relate the solution to the motion. 
+|
+|
+**
+I8
+**
+|
+ Model 
+**
+damped oscillations
+**
+ using 2nd order differential equations. Understand 
+**
+light
+**
+, 
+**
+critical
+**
+ and 
+**
+heavy damping
+**
+ and determine when each occurs. 
+|
+|
+**
+I9
+**
+|
+ Analyse models with one independent variable and two dependent variables as 
+**
+coupled 1st order simultaneous equations
+**
+ (e.g. predator-prey models). 
+|
+|
+**
+I10
+**
+|
+ Use 
+**
+Hooke's Law
+**
+ with 
+`T = kx`
+ to formulate a differential equation for simple harmonic motion. 
+|
+|
+**
+I11
+**
+|
+ Use models for 
+**
+damped motion
+**
+ where the damping force is proportional to velocity. 
+|
+### 3.10 J: Numerical Methods
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+J1
+**
+|
+**
+Mid-ordinate rule
+**
+ and 
+**
+Simpson's rule
+**
+ for integration. 
+|
+|
+**
+J2
+**
+|
+**
+Euler's step-by-step method
+**
+ for solving first order differential equations. 
+|
+|
+**
+J3
+**
+|
+**
+Improved Euler method
+**
+ for solving first order differential equations: 
+`y_(r+1) = y_(r−1) + 2h·f(x_r, y_r)`
+, 
+`x_(r+1) = x_r + h`
+. 
+|
+---
+## 4. Optional Application 1 — Mechanics
+### 4.1 MA: Dimensional Analysis
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+MA1
+**
+|
+ Finding 
+**
+dimensions
+**
+ of quantities; checking for 
+**
+dimensional consistency
+**
+. 
+|
+|
+**
+MA2
+**
+|
+**
+Prediction of formulae
+**
+; finding powers in potential formulae. 
+|
+### 4.2 MB: Momentum and Collisions
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+MB1
+**
+|
+**
+Conservation of momentum
+**
+ for linear motion and cases where velocities are given as 1D or 2D vectors (problems requiring resolving). 
+|
+|
+**
+MB2
+**
+|
+**
+Coefficient of restitution
+**
+ and 
+**
+Newton's Experimental Law
+**
+. Use in direct collisions and impacts with a fixed smooth surface. Problems requiring resolving. 
+|
+|
+**
+MB3
+**
+|
+**
+Impulse
+**
+ and its relation to momentum. Use of 
+`Ft = mv − mu`
+. Problems requiring resolving. 
+|
+|
+**
+MB4
+**
+|
+ Impulse for 
+**
+variable forces
+**
+ (1D only). Use of 
+`I = ∫F dt`
+. 
+|
+### 4.3 MC: Work, Energy and Power
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+MC1
+**
+|
+ Work done by a force acting in/opposing the direction of motion. Use of 
+`WD = Fd cos θ`
+. 
+|
+|
+**
+MC2
+**
+|
+**
+Gravitational potential energy
+**
+. Use in conservation of energy problems. 
+|
+|
+**
+MC3
+**
+|
+**
+Kinetic energy
+**
+. Use in conservation of energy problems. 
+|
+|
+**
+MC4
+**
+|
+**
+Hooke's Law
+**
+ including modulus of elasticity. Use of 
+`T = kx`
+ or 
+`T = λx/l`
+. 
+|
+|
+**
+MC5
+**
+|
+ Work done by a 
+**
+variable force
+**
+: 
+`WD = ∫F dx`
+. Use in conservation of energy problems. 
+|
+|
+**
 MC6
-Elastic potential energy using modulus of elasticity. Use of EPE = kx
-2
-2 and
-EPE =𝐀 x
-2
-2 l.
-Use in conservation of energy problems.
-Content
-MC7 Power. Use of P = Fv
-3.3.4 MD: Circular motion
-
-Content
-MD1 Motion of a particle moving in a circle with constant speed (knowledge of radians
-assumed).
-Content
-MD2 Understand the definition of angular speed.
-Use both radians and revolutions per unit time.
-Content
-MD3 Relationships between speed, angular speed, radius and acceleration. Use of
-v = r 𝐀 , a = r 𝐀^2 and a = v
-2
-r
-Content
-MD4 Use position, velocity and acceleration as vectors in the context of circular motion.
-Content
-MD5 Conical pendulum, with one or two strings.
-Content
-MD6 Circular motion in a vertical plane. Includes conditions to complete vertical circles.
-Use of conservation of energy in this context.
-3.3.5 ME: Centres of mass and moments
-
-Content
-ME1 Centre of mass for a system of particles.
-Content
-ME2 Centre of mass for a composite body.
-Content
-ME3 Centre of mass of a lamina by integration.
-Content
-ME4 Centres of mass of bodies formed by rotating a region about the x -axis.
-Content
-ME5 Conditions for sliding and toppling. Problems including suspension and on an
-inclined plane.
-Content
-ME6 Determine the forces acting on a rigid body in equilibrium. Use of moments and
-couples.
-3.4 Optional application 2 – statistics
-3.4.1 SA: Discrete random variables (DRVs) and expectation
-
-Content
-SA1 Understand DRVs with distributions given in the form of a table or function.
-Content
-SA2 Evaluate probabilities for a DRV.
-Content
-SA3 Evaluate measures of average and spread for a DRV to include mean, variance,
-standard deviation, mode and median.
-Content
-SA4 Understand expectation and know the formulae: E X =∑ xipi ; E X^2 =∑ xi^2 pi ;
-Var X = E X^2 − E X^2
-Content
-SA5 Understand expectation of linear functions of DRVs and know the formulae:
-E aX + b = a E X + b and Var aX + b = a^2 Var X
-Know the formula Eg X =∑g xipi
-Find the mean, variance and standard deviation for functions of a DRV such as
-E 5 X^3 ,E 18 X −^3 ,Var 6 X −^1
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-Content
-SA6 Know the discrete uniform distribution defined on the set 1,2,..., n. Understand
-when this distribution can be used as a model.
-Content
-SA7 Proof of mean and variance of discrete uniform distribution.
-3.4.2 SB: Poisson distribution
-
-Content
-SB1 Understand conditions for a Poisson distribution to model a situation. Understand
-terminology X Po𝐀.
-Content
-SB2 Know the Poisson formula and calculate Poisson probabilities using the formula or
-equivalent calculator function.
-Content
-SB3 Know mean, variance and standard deviation of a Poisson distribution.
-Use the result that, if X Po𝐀 then the mean and variance of X are equal.
-Content
-SB4 Understand the distribution of the sum of independent Poisson distributions.
-Content
-SB5 Formulate hypotheses and carry out a hypothesis test of a population mean from
-a single observation from a Poisson distribution using direct evaluation of Poisson
-probabilities.
-3.4.3 SC: Type I and Type II errors
-
-Content
-SC1 Understand Type I and Type II errors and define in context. Calculate the
-probability of making a Type I error from tests based on a Poisson or Binomial
-distribution.
-Calculate probability of making Type I error from tests based on a normal
-distribution.
-Content
-SC2 Understand the power of a test. Calculations of P(Type II error) and power for a
-test for tests based on a normal, Binomial or a Poisson distribution.
-3.4.4 SD: Continuous random variables (CRVs)
-
-Content
-SD1 Understand and use a probability density function, f x , for a continuous
-distribution and understand the differences between discrete and continuous
-distributions. Understand and use distributions of random variables that are part
-discrete and part continuous.
-Content
-SD2 Find the probability of an observation lying in a specified interval.
-Content
-SD3 Find the median and quartiles for a given probability density function, f x.
-Content
-SD4 Find the mean, variance and standard deviation for a given pdf, f x. Know the
-formulae
-E X =∫ x f x d x , E X^2 =∫ x^2 f x d x , Var X = E X^2 − E X^2
-Content
-SD5 Understand the expectation and variance of linear functions of CRVs and know
-the formulae:
-E aX + b = a E X + b and Var aX + b = a^2 Var X
-Know the formula Eg X =∫g x f x d x
-Find the mean, variance and standard deviation of functions of a continuous
-random variable such as
-E 5 X^3 ,E 18 X −^3 ,Var 6 X −^1
-Content
-SD6 Understand and use a cumulative distribution function, F x. Know the
-relationship between f x and F x.
-F x =∫− x ∞f t d t and f x =dd x F x
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-Content
-SD7 Understand the rectangular distribution f x where
-f x =
-
-1
-b − a a ≤ x ≤ b
-0 otherwise
-Know the conditions for the rectangular distribution to be used as a model.
-Calculate probabilities from a rectangular distribution.
-Know proofs of mean, variance and standard deviation for a rectangular
-distribution.
-Content
-SD8 Know that if X and Y are independent (discrete or continuous) random variables
-then E X + Y = E X + E Y and Var X + Y = Var X + Var Y
-3.4.5 SE: Chi squared tests for association
-
-Content
-SE1 Construction of n × m contingency tables.
-Content
+**
+|
+**
+Elastic potential energy
+**
+ using modulus of elasticity: 
+`EPE = kx²/2`
+ and 
+`EPE = λx²/(2l)`
+. Use in conservation of energy problems. 
+|
+|
+**
+MC7
+**
+|
+**
+Power
+**
+: 
+`P = Fv`
+. 
+|
+### 4.4 MD: Circular Motion
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+MD1
+**
+|
+ Motion of a particle moving in a circle with 
+**
+constant speed
+**
+ (radians assumed). 
+|
+|
+**
+MD2
+**
+|
+ Understand the definition of 
+**
+angular speed
+**
+. Use both radians and revolutions per unit time. 
+|
+|
+**
+MD3
+**
+|
+ Relationships: 
+`v = rω`
+, 
+`a = rω²`
+, 
+`a = v²/r`
+. 
+|
+|
+**
+MD4
+**
+|
+ Use position, velocity and acceleration as 
+**
+vectors
+**
+ in circular motion. 
+|
+|
+**
+MD5
+**
+|
+**
+Conical pendulum
+**
+, with one or two strings. 
+|
+|
+**
+MD6
+**
+|
+**
+Circular motion in a vertical plane
+**
+. Conditions to complete vertical circles. Use of conservation of energy. 
+|
+### 4.5 ME: Centres of Mass and Moments
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+ME1
+**
+|
+ Centre of mass for a 
+**
+system of particles
+**
+. 
+|
+|
+**
+ME2
+**
+|
+ Centre of mass for a 
+**
+composite body
+**
+. 
+|
+|
+**
+ME3
+**
+|
+ Centre of mass of a 
+**
+lamina by integration
+**
+. 
+|
+|
+**
+ME4
+**
+|
+ Centres of mass of bodies formed by 
+**
+rotating a region
+**
+ about the x-axis. 
+|
+|
+**
+ME5
+**
+|
+ Conditions for 
+**
+sliding
+**
+ and 
+**
+toppling
+**
+. Problems including suspension and on an inclined plane. 
+|
+|
+**
+ME6
+**
+|
+ Determine the forces acting on a rigid body in 
+**
+equilibrium
+**
+. Use of 
+**
+moments
+**
+ and 
+**
+couples
+**
+. 
+|
+---
+## 5. Optional Application 2 — Statistics
+### 5.1 SA: Discrete Random Variables and Expectation
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+SA1
+**
+|
+ Understand DRVs with distributions given as a table or function. 
+|
+|
+**
+SA2
+**
+|
+ Evaluate probabilities for a DRV. 
+|
+|
+**
+SA3
+**
+|
+ Evaluate measures of average and spread for a DRV: 
+**
+mean, variance, standard deviation, mode, median
+**
+. 
+|
+|
+**
+SA4
+**
+|
+ Understand expectation. Formulae: 
+`E(X) = Σxᵢpᵢ`
+; 
+`E(X²) = Σxᵢ²pᵢ`
+; 
+`Var(X) = E(X²) − [E(X)]²`
+. 
+|
+|
+**
+SA5
+**
+|
+ Expectation of linear functions: 
+`E(aX + b) = aE(X) + b`
+; 
+`Var(aX + b) = a²Var(X)`
+. General: 
+`E[g(X)] = Σg(xᵢ)pᵢ`
+. Find mean, variance and standard deviation of functions like 
+`E(5X³)`
+, 
+`E(18X⁻³)`
+, 
+`Var(6X⁻¹)`
+. 
+|
+|
+**
+SA6
+**
+|
+ Know the 
+**
+discrete uniform distribution
+**
+ defined on {1, 2, ..., n}. Understand when it models a situation. 
+|
+|
+**
+SA7
+**
+|
+ Proof of mean and variance of discrete uniform distribution. 
+|
+### 5.2 SB: Poisson Distribution
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+SB1
+**
+|
+ Understand conditions for a 
+**
+Poisson distribution
+**
+. Terminology: 
+`X ~ Po(λ)`
+. 
+|
+|
+**
+SB2
+**
+|
+ Know the 
+**
+Poisson formula
+**
+ and calculate probabilities. 
+|
+|
+**
+SB3
+**
+|
+ Mean, variance and standard deviation of a Poisson distribution. If 
+`X ~ Po(λ)`
+ then mean and variance are 
+**
+both equal to λ
+**
+. 
+|
+|
+**
+SB4
+**
+|
+ Distribution of the 
+**
+sum of independent Poisson
+**
+ distributions. 
+|
+|
+**
+SB5
+**
+|
+ Formulate hypotheses and carry out a 
+**
+hypothesis test
+**
+ of a population mean from a single observation from a Poisson distribution using direct evaluation. 
+|
+### 5.3 SC: Type I and Type II Errors
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+SC1
+**
+|
+ Understand 
+**
+Type I
+**
+ and 
+**
+Type II errors
+**
+ and define in context. Calculate P(Type I error) for tests based on Poisson, Binomial, or Normal distributions. 
+|
+|
+**
+SC2
+**
+|
+ Understand the 
+**
+power of a test
+**
+. Calculate P(Type II error) and power for tests based on Normal, Binomial, or Poisson distributions. 
+|
+### 5.4 SD: Continuous Random Variables
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+SD1
+**
+|
+ Understand and use a 
+**
+probability density function
+**
+ f(x) for a continuous distribution. Understand distributions that are 
+**
+part discrete and part continuous
+**
+. 
+|
+|
+**
+SD2
+**
+|
+ Find the probability of an observation lying in a specified interval. 
+|
+|
+**
+SD3
+**
+|
+ Find the 
+**
+median and quartiles
+**
+ for a given pdf f(x). 
+|
+|
+**
+SD4
+**
+|
+ Find the mean, variance and standard deviation: 
+`E(X) = ∫x·f(x)dx`
+; 
+`E(X²) = ∫x²·f(x)dx`
+; 
+`Var(X) = E(X²) − [E(X)]²`
+. 
+|
+|
+**
+SD5
+**
+|
+ Expectation of linear functions of CRVs: 
+`E(aX + b) = aE(X) + b`
+; 
+`Var(aX + b) = a²Var(X)`
+. General: 
+`E[g(X)] = ∫g(x)·f(x)dx`
+. 
+|
+|
+**
+SD6
+**
+|
+ Understand and use the 
+**
+cumulative distribution function
+**
+ F(x). Relationship: 
+`F(x) = ∫₋∞ˣ f(t)dt`
+ and 
+`f(x) = dF(x)/dx`
+. 
+|
+|
+**
+SD7
+**
+|
+ Understand the 
+**
+rectangular (uniform) distribution
+**
+: 
+`f(x) = 1/(b−a)`
+ for 
+`a ≤ x ≤ b`
+, 0 otherwise. Know conditions for use as a model. Proof of mean, variance and standard deviation. 
+|
+|
+**
+SD8
+**
+|
+ If X and Y are 
+**
+independent
+**
+ (discrete or continuous) random variables: 
+`E(X + Y) = E(X) + E(Y)`
+ and 
+`Var(X + Y) = Var(X) + Var(Y)`
+. 
+|
+### 5.5 SE: Chi-Squared Tests for Association
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+SE1
+**
+|
+ Construction of 
+**
+n × m contingency tables
+**
+. 
+|
+|
+**
 SE2
-Use of ∑ Oi − Ei
-2
-Ei as an approximate χ
-(^2) statistic with appropriate degrees of
-freedom.
-Content
-SE3 Know and use the convention that all Ei should be greater than 5.
-Content
-SE4 Identification of sources of association in the context of a question.
-Content
-SE5 Knowledge of when and how to apply Yates’ correction.
-3.4.6 SF: Exponential distribution
-Content
-SF1 Know the conditions for an exponential distribution to be used as a model. Know
-the probability density function, f x , and the cumulative distribution function,
-F x , for an exponential distribution.
-
-Content
-SF2 Calculate probabilities for an exponential distribution using F x or integration of
-f x
-Content
-SF3 Know proofs of mean, variance and standard deviation for an exponential
-distribution.
-Content
-SF4 Understand that the lengths of intervals between Poisson events have an
-exponential distribution.
-3.4.7 SG: Inference – one sample t - distribution
-
-Content
-SG1 Test for the mean of a normal distribution with unknown variance using a
-t -statistic with appropriate degrees of freedom.
-3.4.8 SH: Confidence Intervals
-
-Content
-SH1 Construct symmetric confidence intervals for the mean of a normal distribution
-with known variance.
-Content
-SH2 Construct symmetric confidence intervals from large samples, for the mean of a
-normal distribution with unknown variance.
-Content
-SH3 Make inferences from constructed or given confidence intervals.
-Content
-SH4 Construct symmetric confidence intervals from small samples, for the mean of a
-normal distribution with unknown variance using the t -distribution.
-3.5 Optional application 3 – discrete mathematics
-3.5.1 DA: Graphs
-
-Content
-DA1 Understand and use the language of graphs including: vertex, edge, trail, cycle,
-connected, degree, subgraph, subdivision, multiple edge and loop.
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-Content
-DA2 Identify or prove properties of a graph including that a graph is Eulerian,
-semi-Eulerian or Hamiltonian.
-Content
-DA3 Understand and use Euler’s formula for connected planar graphs.
-Content
-DA4 Use Kuratowski’s Theorem to determine the planarity of graphs.
-Content
-DA5 Understand and use complete graphs and bipartite graphs, including adjacency
-matrices and the complement of a graph.
-Content
-DA6 Understand and use simple graphs, simple-connected graphs and trees.
-Content
-DA7 Recognise and find isomorphism between graphs.
-3.5.2 DB: Networks
-
-Content
-DB1 Understand and use the language of networks including: node, arc and weight.
-Content
-DB2 Solve network optimisation problems using spanning trees.
-Content
-DB3 Solve route inspection problems.
-Content
-DB4 Find and interpret upper bounds and lower bounds for the travelling salesperson
-problem.
-Content
-DB5 Evaluate, modify and refine models which use networks.
-3.5.3 DC: Network flows
-
-Content
-DC1 Interpret flow problems represented by a network of directed arcs.
-Content
-DC2 Find the value of a cut and understand its meaning.
-Content
-DC3 Use and interpret the maximum flow-minimum cut theorem.
-Content
-DC4 Introduce supersources and supersinks to a network.
-Content
-DC5 Augment flows and determine the maximum flow in a network
-Content
-DC6 Solve problems involving arcs with upper and lower capacities.
-Content
-DC7 Refine network flow problems including using nodes of restricted capacity.
-3.5.4 DD: Linear programming
-
-Content
-DD1 Formulate constrained optimisation problems.
-Content
-DD2 Solve constrained optimisation problems via graphical methods.
-Content
-DD3 Use the Simplex algorithm for optimising (maximising and minimising) an objective
-function including the use of slack variables.
-Content
-DD4 Interpret a Simplex tableau.
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-3.5.5 DE: Critical path analysis
-
-Content
-DE1 Construct, represent and interpret a precedence (activity) network using
-activity-on-node.
-Content
-DE2 Determine earliest and latest start and finish times for an activity network.
-Content
-DE3 Identify critical activities, critical paths and the float of non-critical activities.
-Content
-DE4 Refine models and understand the implications of possible changes in the context
-of critical path analysis.
-Content
-DE5 Construct and interpret Gantt (cascade) diagrams and resource histograms.
-Content
-DE6 Carry out resource levelling (using heuristic procedures) and solve problems
-where resources are restricted.
-3.5.6 DF: Game theory for zero-sum games
-
-Content
-DF1 Understand, interpret and construct pay-off matrices.
-Content
-DF2 Find play-safe strategies and the value of the game.
-Content
-DF3 Prove the existence or non-existence of a stable solution.
-Content
-DF4 Identify and make use of dominated strategies.
-Content
-DF5 Find optimal mixed strategies for a game including use of graphical methods.
-Content
-DF6 Convert and solve higher order games to linear programming problems.
-3.5.7 DG: Binary operations
-
-Content
-DG1 Understand and use binary operations including use of modular arithmetic and
-matrix multiplication.
-Content
-DG2 Understand, use and prove the commutativity of a binary operation.
-Content
-DG3 Understand, use and prove the associativity of a binary operation.
-Content
-DG4 Construct a Cayley table for a given set under a given binary operation.
-Content
-DG5 Understand and prove the existence of an identity element for a given set under a
-given binary operation.
-Content
-DG6 Find the inverse of an element belonging to a given set under a given binary
-operation.
-Content
-DG7 Understand and use the language of groups including: order, period, subgroup,
-proper, trivial, non-trivial.
-Content
-DG8 Understand and use the group axioms: closure, identity, inverses and
-associativity, including use of Cayley tables.
-Content
-DG9 Recognise and use finite and infinite groups and their subgroups, including:
-groups of symmetries of regular polygons, cyclic groups and abelian groups.
-Content
-DG10 Understand and use Lagrange’s theorem.
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-Content
-DG11 Identify and use the generators of a group.
-
-Content
-DG12 Recognise and find isomorphism between groups of finite order.
-
-4 Scheme of assessment
-Find past papers and mark schemes, and specimen papers for new courses, on our website at
-aqa.org.uk/pastpapers
-This specification is designed to be taken over two years.
-This is a linear qualification. In order to achieve the award, students must complete all
-assessments at the end of the course and in the same series.
-A-level exams and certification for this specification are available for the first time in May/June
-2019 and then every May/June for the life of the specification.
-All materials are available in English only.
-Our A-level exams in Further Mathematics include questions that allow students to demonstrate
-their ability to:
-
-recall information
-draw together information from different areas of the specification
-apply their knowledge and understanding in practical and theoretical contexts.
-4.1 Aims
-Courses based on this specification must encourage students to:
-
-understand mathematics and mathematical processes in ways that promote confidence, foster
-enjoyment and provide a strong foundation for progress to further study
-extend their range of mathematical skills and techniques
-understand coherence and progression in mathematics and how different areas of mathematics
-are connected
-apply mathematics in other fields of study and be aware of the relevance of mathematics to the
-world of work and to situations in society in general
-use their mathematical knowledge to make logical and reasoned decisions in solving problems
-both within pure mathematics and in a variety of contexts, and communicate the mathematical
-rationale for these decisions clearly
-reason logically and recognise incorrect reasoning
-generalise mathematically
-construct mathematical proofs
-use their mathematical skills and techniques to solve challenging problems which require them
-to decide on the solution strategy
-recognise when mathematics can be used to analyse and solve a problem in context
-represent situations mathematically and understand the relationship between problems in
-context and mathematical models that may be applied to solve them
-draw diagrams and sketch graphs to help explore mathematical situations and interpret
-solutions
-make deductions and inferences and draw conclusions by using mathematical reasoning
-interpret solutions and communicate their interpretation effectively in the context of the problem
-read and comprehend mathematical arguments, including justifications of methods and
-formulae, and communicate their understanding
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-read and comprehend articles concerning applications of mathematics and communicate their
-understanding
-use technology such as calculators and computers effectively, and recognise when such use
-may be inappropriate
-take increasing responsibility for their own learning and the evaluation of their own
-mathematical development.
-4.2 Assessment objectives
-Assessment objectives (AOs) are set by Ofqual and are the same across all A-level Further
-Mathematics specifications and all exam boards.
-The exams will measure how students have achieved the following assessment objectives.
-
-AO1: Use and apply standard techniques. Students should be able to:
-select and correctly carry out routine procedures
-accurately recall facts, terminology and definitions.
-AO2: Reason, interpret and communicate mathematically. Students should be able to:
-construct rigorous mathematical arguments (including proofs)
-make deductions and inferences
-assess the validity of mathematical arguments
-explain their reasoning
-use mathematical language and notation correctly.
-Where questions/tasks targeting this assessment objective will also credit students for the ability
-to ‘use and apply standard techniques’ (AO1) and/or to ‘solve problems within mathematics and
-in other contexts’ (AO3) an appropriate proportion of the marks for the question/task must be
-attributed to the corresponding assessment objective(s).
-AO3: Solve problems within mathematics and in other contexts. Students should be able to:
-translate problems in mathematical and non-mathematical contexts into mathematical
-processes
-interpret solutions to problems in their original context, and, where appropriate, evaluate their
-accuracy and limitations
-translate situations in context into mathematical models
-use mathematical models
-evaluate the outcomes of modelling in context, recognise the limitations of models and,
-where appropriate, explain how to refine them.
-Where questions/tasks targeting this assessment objective will also credit students for the ability
-to ‘use and apply standard techniques’ (AO1) and/or to ‘reason, interpret and communicate
-mathematically’ (AO2) an appropriate proportion of the marks for the question/task must be
-attributed to the corresponding assessment objective(s).
-4.2.1 Assessment objective weightings for A-level Further
-Mathematics
-
-Assessment objectives (AOs) Component weightings
-(approx %)
-Overall weighting
-(approx %)
-Paper 1 Paper 2 Paper 3
-AO1 55 55 40 50
-AO2 25 25 25 25
-AO3 20 20 35 25
-Overall weighting of components 33 ⅓ 33 ⅓ 33 ⅓ 100
-4.3 Assessment weightings
-The marks awarded on the papers will be scaled to meet the weighting of the components.
-Students’ final marks will be calculated by adding together the scaled marks for each component.
-Grade boundaries will be set using this total scaled mark. The scaling and total scaled marks are
-shown in the table below.
-Students’ final marks will be calculated by adding together the scaled marks for each component,
-this includes the two optional topics chosen as part of paper 3. At qualification level different grade
-boundaries will be published to reflect the different routes through the qualification.
-
-Component Maximum raw mark Scaling factor Maximum scaled mark
-Paper 1 100 x1 100
-Paper 2 100 x1 100
-Paper 3 100 x1 100
-Total scaled mark: 300
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-5 General administration
-You can find information about all aspects of administration, as well as all the forms you need, at
-aqa.org.uk/examsadmin
-
-5.1 Entries and codes
-You only need to make one entry for each qualification – this will cover all the question papers,
-non-exam assessment and certification.
-Every specification is given a national discount (classification) code by the Department for
-Education (DfE), which indicates its subject area.
-If a student takes two specifications with the same discount code, further and higher education
-providers are likely to take the view that they have only achieved one of the two qualifications.
-Please check this before your students start their course.
-
-Qualification title AQA entry code DfE discount code
-AQA Advanced Level GCE in Further Mathematics 7367 2330
-This specification complies with:
-
-Ofqual General conditions of recognition that apply to all regulated qualifications
-Ofqual GCE qualification level conditions that apply to all GCEs
-Ofqual GCE subject level conditions that apply to all GCEs in this subject
-all other relevant regulatory documents.
-The Ofqual qualification accreditation number (QAN) is 603/1841/7.
-5.2 Overlaps with other qualifications
-There is overlapping content in the AS and A-level Further Mathematics specifications. This helps
-you teach the AS and A-level together.
-
-5.3 Awarding grades and reporting results
-The A-level qualification will be graded on a six-point scale: A*, A, B, C, D and E.
-Students who fail to reach the minimum standard for grade E will be recorded as U (unclassified)
-and will not receive a qualification certificate.
-
-5.4 Re-sits and shelf life
-Students can re-sit the qualification as many times as they wish, within the shelf life of the
-qualification.
-
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-5.5 Previous learning and prerequisites
-There are no previous learning requirements. Any requirements for entry to a course based on this
-specification are at the discretion of schools and colleges.
-However, we recommend that students should have the skills and knowledge associated with a
-GCSE Mathematics or equivalent.
-
-5.6 Access to assessment: diversity and inclusion
-General qualifications are designed to prepare students for a wide range of occupations and
-further study. Therefore our qualifications must assess a wide range of competences.
-The subject criteria have been assessed to see if any of the skills or knowledge required present
-any possible difficulty to any students, whatever their ethnic background, religion, sex, age,
-disability or sexuality. Tests of specific competences were only included if they were important to
-the subject.
-As members of the Joint Council for Qualifications (JCQ) we participate in the production of the
-JCQ document Access Arrangements and Reasonable Adjustments: General and Vocational
-qualifications. We follow these guidelines when assessing the needs of individual students who
-may require an access arrangement or reasonable adjustment. This document is published at
-jcq.org.uk
-
-Students with disabilities and special needs
-We're required by the Equality Act 2010 to make reasonable adjustments to remove or lessen any
-disadvantage that affects a disabled student.
-We can make arrangements for disabled students and students with special needs to help them
-access the assessments, as long as the competences being tested aren't changed. Access
-arrangements must be agreed before the assessment. For example, a Braille paper would be a
-reasonable adjustment for a Braille reader.
-To arrange access arrangements or reasonable adjustments, you can apply using the online
-service at aqa.org.uk/eaqa
-
-Special consideration
-We can give special consideration to students who have been disadvantaged at the time of the
-assessment through no fault of their own – for example a temporary illness, injury or serious
-problem such as family bereavement. We can only do this after the assessment.
-Your exams officer should apply online for special consideration at aqa.org.uk/eaqa
-For more information and advice visit aqa.org.uk/access or email
-accessarrangementsqueries@aqa.org.uk
-
-5.7 Working with AQA for the first time
-If your school or college hasn't previously offered our specifications, you need to register as an
-AQA centre. Find out how at aqa.org.uk/becomeacentre
-
-5.8 Private candidates
-This specification is available to private candidates.
-A private candidate is someone who enters for exams through an AQA approved school or college
-but is not enrolled as a student there.
-A private candidate may be self-taught, home schooled or have private tuition, either with a tutor or
-through a distance learning organisation. They must be based in the UK.
-If you have any queries as a private candidate, you can:
-
-speak to the exams officer at the school or college where you intend to take your exams
-visit our website at aqa.org.uk/privatecandidates
-email privatecandidates@aqa.org.uk
-5.9 Use of calculators
-A calculator is required for use in all assessments in this specification. Details of the requirements
-for calculators can be found in the Joint Council for General Qualifications document Instructions
-for conducting examinations.
-For A-level Further Mathematics exams, calculators should have the following as a required
-minimum:
-
-an iterative function
-the ability to perform calculations with matrices up to order 3 × 3
-the ability to compute summary statistics and access probabilities from standard statistical
-distributions.
-For the purposes of this specification, a ‘calculator’ is any electronic or mechanical device which
-may be used for the performance of mathematical computations. However, only those permissible
-in the guidance in the Instructions for conducting examinations are allowed in A-level Further
-Mathematics exams.
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-6 Appendix A: mathematical notation
-The tables below set out the notation that must be used by AS and A-level mathematics and
-further mathematics specifications. Students will be expected to understand this notation without
-need for further explanation.
-Mathematics students will not be expected to understand notation that relates only to further
-mathematics content. Further mathematics students will be expected to understand all notation in
-the list.
-For further mathematics, the notation for the core content is listed under sub headings indicating
-‘further mathematics only’. In this subject, awarding organisations are required to include, in their
-specifications, content that is additional to the core content. They will therefore need to add to the
-notation list accordingly.
-AS students will be expected to understand notation that relates to AS content, and will not be
-expected to understand notation that relates only to A-level content.
-
-6.1 Set notation
-1 Set notation Meaning
-1.1 ∈ is an element of
-1.2 ∉ is not an element of
-1.3 ⊆ is a subset of
-1.4 ⊂ is a proper subset of
-1.5 x 1 , x 2 ,... the set with elements x 1 , x 2 ,...
-1.6 x : ... the set of all x such that ...
-1.7 n ( A ) the number of elements in set A
-1.8 Ø the empty set
-1.9 𝐀 the universal set
-1.10 A ' the complement of the set A
-1.11 ℕ the set of natural numbers 1, 2, 3,...
-1.12 ℤ the set of integers 0, ± 1, ± 2, ± 3,...
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-1 Set notation Meaning
-1.13 ℤ+ the set of positive integers 1,2,3,...
-1.14 ℤ 0 + the set of non-negative integers {0, 1, 2, 3, ...}
-1.15 ℝ the set of real numbers
-1.16 ℚ the set of rational numbers p
-q : p ∈ℤ, q ∈ℤ
-+
-1.17 ∪ union
-1.18 ∩ intersection
-1.19 x , y the ordered pair x , y
-1.20 a , b the closed interval x ∈ℝ: a ≤ x ≤ b
-1.21 a , b the interval x ∈ℝ: a ≤ x < b
-1.22 a , b the interval x ∈ℝ: a < x ≤ b
-1.23 a , b the open interval x ∈ℝ: a < x < b
-Set notation (Further Maths only)
-
-1 Set notation Meaning
-1.24 ℂ the set of complex numbers
-6.2 Miscellaneous symbols
-2 Miscellaneous symbols Meaning
-2.1 = is equal to
-2.2 ≠ is not equal to
-2.3 ≡ is identical to or is congruent to
-2.4 ≈ is approximately equal to
-2.5 ∞ infinity
-2.6 ∝ is proportional to
-2 Miscellaneous symbols Meaning
-2.7 ∴ therefore
-2.8 ∵ because
-2.9 < is less than
-2.10 ⩽ , ≤ is less than or equal to, is not greater than
-2.11 > is greater than
-2.12 ⩾ , ≥ is greater than or equal to, is not less than
-2.13 p q p implies q (if p then q )
-2.14 p q p is implied by q (if q then p )
-2.15 p q p implies and is implied by q ( p is equivalent to q )
-2.16 a first term of an arithmetic or geometric sequence
-2.17 l last term of an arithmetic sequence
-2.18 d common difference of an arithmetic sequence
-2.19 r common ratio of a geometric sequence
-2.20 Sn sum to n terms of a sequence
-
-2.21 S ∞ sum to infinity of a sequence
-
-Miscellaneous symbols (Further Maths only)
-
-2 Miscellaneous symbols Meaning
-2.22 ≅ is isomorphic to
-6.3 Operations
-3 Operations Meaning
-3.1 a + b a plus b
-3.2 a − b a minus b
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-3 Operations Meaning
-3.3 a × b , ab , a. b a multiplied by b
-3.4 a ÷ b , ab a divided by b
-
-3.5 ∑
-i = 1
-n
-ai a 1 + a 2 + ... + an
-3.6 ∏
-i = 1
-n
-ai a 1 × a 2 × ... × an
-3.7 a the non-negative square root of a
-3.8 a the modulus of a
-3.9 n! n factorial: n != n × n − 1 × ... × 2 × 1, n ∈ℕ;0!= 1
-3.10
-n
+**
+|
+ Use of 
+`Σ(Oᵢ − Eᵢ)²/Eᵢ`
+ as an approximate 
+**
+χ² statistic
+**
+ with appropriate degrees of freedom. 
+|
+|
+**
+SE3
+**
+|
+ Know the convention that all 
+**
+Eᵢ should be greater than 5
+**
+. 
+|
+|
+**
+SE4
+**
+|
+ Identification of 
+**
+sources of association
+**
+ in context. 
+|
+|
+**
+SE5
+**
+|
+ Knowledge of when and how to apply 
+**
+Yates' correction
+**
+. 
+|
+### 5.6 SF: Exponential Distribution
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+SF1
+**
+|
+ Know conditions for an 
+**
+exponential distribution
+**
+. Know the pdf f(x) and cdf F(x). 
+|
+|
+**
+SF2
+**
+|
+ Calculate probabilities using F(x) or integration of f(x). 
+|
+|
+**
+SF3
+**
+|
+ Know proofs of mean, variance and standard deviation. 
+|
+|
+**
+SF4
+**
+|
+ Understand that lengths of intervals between 
+**
+Poisson events
+**
+ have an exponential distribution. 
+|
+### 5.7 SG: Inference — One-Sample t-Distribution
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+SG1
+**
+|
+ Test for the mean of a 
+**
+normal distribution with unknown variance
+**
+ using a 
+**
+t-statistic
+**
+ with appropriate degrees of freedom. 
+|
+### 5.8 SH: Confidence Intervals
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+SH1
+**
+|
+ Construct symmetric 
+**
+confidence intervals
+**
+ for the mean of a normal distribution with 
+**
+known variance
+**
+. 
+|
+|
+**
+SH2
+**
+|
+ Construct symmetric confidence intervals from 
+**
+large samples
+**
+ for the mean of a normal distribution with 
+**
+unknown variance
+**
+. 
+|
+|
+**
+SH3
+**
+|
+ Make inferences from constructed or given confidence intervals. 
+|
+|
+**
+SH4
+**
+|
+ Construct symmetric confidence intervals from 
+**
+small samples
+**
+ using the 
+**
+t-distribution
+**
+. 
+|
+---
+## 6. Optional Application 3 — Discrete Mathematics
+### 6.1 DA: Graphs
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+DA1
+**
+|
+ Understand and use: 
+**
+vertex, edge, trail, cycle, connected, degree, subgraph, subdivision, multiple edge, loop
+**
+. 
+|
+|
+**
+DA2
+**
+|
+ Identify or prove properties of a graph: 
+**
+Eulerian, semi-Eulerian, Hamiltonian
+**
+. 
+|
+|
+**
+DA3
+**
+|
+ Understand and use 
+**
+Euler's formula
+**
+ for connected planar graphs. 
+|
+|
+**
+DA4
+**
+|
+ Use 
+**
+Kuratowski's Theorem
+**
+ to determine planarity of graphs. 
+|
+|
+**
+DA5
+**
+|
+ Understand and use 
+**
+complete graphs
+**
+ and 
+**
+bipartite graphs
+**
+, including adjacency matrices and the complement of a graph. 
+|
+|
+**
+DA6
+**
+|
+ Understand and use 
+**
+simple graphs
+**
+, 
+**
+simple-connected graphs
+**
+ and 
+**
+trees
+**
+. 
+|
+|
+**
+DA7
+**
+|
+ Recognise and find 
+**
+isomorphism
+**
+ between graphs. 
+|
+### 6.2 DB: Networks
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+DB1
+**
+|
+ Understand and use: 
+**
+node, arc, weight
+**
+. 
+|
+|
+**
+DB2
+**
+|
+ Solve network optimisation problems using 
+**
+spanning trees
+**
+. 
+|
+|
+**
+DB3
+**
+|
+ Solve 
+**
+route inspection
+**
+ problems. 
+|
+|
+**
+DB4
+**
+|
+ Find and interpret 
+**
+upper bounds
+**
+ and 
+**
+lower bounds
+**
+ for the 
+**
+travelling salesperson problem
+**
+. 
+|
+|
+**
+DB5
+**
+|
+ Evaluate, modify and refine models using networks. 
+|
+### 6.3 DC: Network Flows
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+DC1
+**
+|
+ Interpret flow problems represented by a network of 
+**
+directed arcs
+**
+. 
+|
+|
+**
+DC2
+**
+|
+ Find the value of a 
+**
+cut
+**
+ and understand its meaning. 
+|
+|
+**
+DC3
+**
+|
+ Use and interpret the 
+**
+maximum flow–minimum cut theorem
+**
+. 
+|
+|
+**
+DC4
+**
+|
+ Introduce 
+**
+supersources
+**
+ and 
+**
+supersinks
+**
+ to a network. 
+|
+|
+**
+DC5
+**
+|
+ Augment flows and determine the 
+**
+maximum flow
+**
+ in a network. 
+|
+|
+**
+DC6
+**
+|
+ Solve problems involving arcs with 
+**
+upper and lower capacities
+**
+. 
+|
+|
+**
+DC7
+**
+|
+ Refine network flow problems including 
+**
+nodes of restricted capacity
+**
+. 
+|
+### 6.4 DD: Linear Programming
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+DD1
+**
+|
+ Formulate 
+**
+constrained optimisation
+**
+ problems. 
+|
+|
+**
+DD2
+**
+|
+ Solve constrained optimisation problems via 
+**
+graphical methods
+**
+. 
+|
+|
+**
+DD3
+**
+|
+ Use the 
+**
+Simplex algorithm
+**
+ for maximising and minimising an objective function including 
+**
+slack variables
+**
+. 
+|
+|
+**
+DD4
+**
+|
+ Interpret a 
+**
+Simplex tableau
+**
+. 
+|
+### 6.5 DE: Critical Path Analysis
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+DE1
+**
+|
+ Construct, represent and interpret a 
+**
+precedence (activity) network
+**
+ using activity-on-node. 
+|
+|
+**
+DE2
+**
+|
+ Determine 
+**
+earliest
+**
+ and 
+**
+latest
+**
+ start and finish times for an activity network. 
+|
+|
+**
+DE3
+**
+|
+ Identify 
+**
+critical activities
+**
+, 
+**
+critical paths
+**
+ and the 
+**
+float
+**
+ of non-critical activities. 
+|
+|
+**
+DE4
+**
+|
+ Refine models and understand implications of changes in the context of critical path analysis. 
+|
+|
+**
+DE5
+**
+|
+ Construct and interpret 
+**
+Gantt (cascade) diagrams
+**
+ and 
+**
+resource histograms
+**
+. 
+|
+|
+**
+DE6
+**
+|
+ Carry out 
+**
+resource levelling
+**
+ (using heuristic procedures) and solve problems with restricted resources. 
+|
+### 6.6 DF: Game Theory for Zero-Sum Games
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+DF1
+**
+|
+ Understand, interpret and construct 
+**
+pay-off matrices
+**
+. 
+|
+|
+**
+DF2
+**
+|
+ Find 
+**
+play-safe strategies
+**
+ and the value of the game. 
+|
+|
+**
+DF3
+**
+|
+ Prove the existence or non-existence of a 
+**
+stable solution
+**
+. 
+|
+|
+**
+DF4
+**
+|
+ Identify and make use of 
+**
+dominated strategies
+**
+. 
+|
+|
+**
+DF5
+**
+|
+ Find optimal 
+**
+mixed strategies
+**
+ including graphical methods. 
+|
+|
+**
+DF6
+**
+|
+ Convert and solve higher order games to 
+**
+linear programming
+**
+ problems. 
+|
+### 6.7 DG: Binary Operations
+|
+ Ref 
+|
+ Content 
+|
+|
+---
+|
+---
+|
+|
+**
+DG1
+**
+|
+ Understand and use 
+**
+binary operations
+**
+ including modular arithmetic and matrix multiplication. 
+|
+|
+**
+DG2
+**
+|
+ Understand, use and prove 
+**
+commutativity
+**
+. 
+|
+|
+**
+DG3
+**
+|
+ Understand, use and prove 
+**
+associativity
+**
+. 
+|
+|
+**
+DG4
+**
+|
+ Construct a 
+**
+Cayley table
+**
+ for a given set under a given binary operation. 
+|
+|
+**
+DG5
+**
+|
+ Understand and prove the existence of an 
+**
+identity element
+**
+. 
+|
+|
+**
+DG6
+**
+|
+ Find the 
+**
+inverse
+**
+ of an element. 
+|
+|
+**
+DG7
+**
+|
+ Understand and use: 
+**
+order, period, subgroup, proper, trivial, non-trivial
+**
+. 
+|
+|
+**
+DG8
+**
+|
+ Understand and use the 
+**
+group axioms
+**
+: closure, identity, inverses, associativity (including Cayley tables). 
+|
+|
+**
+DG9
+**
+|
+ Recognise and use finite/infinite groups and subgroups, including: groups of 
+**
+symmetries of regular polygons
+**
+, 
+**
+cyclic groups
+**
+, 
+**
+abelian groups
+**
+. 
+|
+|
+**
+DG10
+**
+|
+ Understand and use 
+**
+Lagrange's theorem
+**
+. 
+|
+|
+**
+DG11
+**
+|
+ Identify and use the 
+**
+generators
+**
+ of a group. 
+|
+|
+**
+DG12
+**
+|
+ Recognise and find 
+**
+isomorphism
+**
+ between groups of finite order. 
+|
+---
+## 7. Appendix A — Mathematical Notation
+Students are expected to understand all notation below without further explanation.
+### 7.1 Set Notation
+|
+#
+|
+ Notation 
+|
+ Meaning 
+|
+|
+---
+|
+---
+|
+---
+|
+|
+ 1.1 
+|
+`∈`
+|
+ is an element of 
+|
+|
+ 1.2 
+|
+`∉`
+|
+ is not an element of 
+|
+|
+ 1.3 
+|
+`⊆`
+|
+ is a subset of 
+|
+|
+ 1.4 
+|
+`⊂`
+|
+ is a proper subset of 
+|
+|
+ 1.5 
+|
+`{x₁, x₂, ...}`
+|
+ the set with elements x₁, x₂, ... 
+|
+|
+ 1.6 
+|
+`{x : ...}`
+|
+ the set of all x such that ... 
+|
+|
+ 1.7 
+|
+`n(A)`
+|
+ the number of elements in set A 
+|
+|
+ 1.8 
+|
+`∅`
+|
+ the empty set 
+|
+|
+ 1.9 
+|
+`ε`
+|
+ the universal set 
+|
+|
+ 1.10 
+|
+`A′`
+|
+ the complement of set A 
+|
+|
+ 1.11 
+|
+`ℕ`
+|
+ the set of natural numbers {1, 2, 3, ...} 
+|
+|
+ 1.12 
+|
+`ℤ`
+|
+ the set of integers {0, ±1, ±2, ±3, ...} 
+|
+|
+ 1.13 
+|
+`ℤ⁺`
+|
+ the set of positive integers {1, 2, 3, ...} 
+|
+|
+ 1.14 
+|
+`ℤ₀⁺`
+|
+ the set of non-negative integers {0, 1, 2, 3, ...} 
+|
+|
+ 1.15 
+|
+`ℚ`
+|
+ the set of rational numbers 
+|
+|
+ 1.16 
+|
+`ℝ`
+|
+ the set of real numbers 
+|
+|
+ 1.17 
+|
+`ℂ`
+|
+ the set of complex numbers 
+|
+|
+ 1.18 
+|
+`(x, y)`
+|
+ the ordered pair x, y 
+|
+|
+ 1.19 
+|
+`A × B`
+|
+ the Cartesian product of sets A and B 
+|
+|
+ 1.20 
+|
+`∪`
+|
+ union 
+|
+|
+ 1.21 
+|
+`∩`
+|
+ intersection 
+|
+|
+ 1.22 
+|
+`[a, b]`
+|
+ the closed interval {x ∈ ℝ : a ≤ x ≤ b} 
+|
+|
+ 1.23 
+|
+`[a, b)`
+|
+ the interval {x ∈ ℝ : a ≤ x < b} 
+|
+|
+ 1.24 
+|
+`(a, b]`
+|
+ the interval {x ∈ ℝ : a < x ≤ b} 
+|
+|
+ 1.25 
+|
+`(a, b)`
+|
+ the open interval {x ∈ ℝ : a < x < b} 
+|
+### 7.2 Miscellaneous Symbols
+|
+#
+|
+ Notation 
+|
+ Meaning 
+|
+|
+---
+|
+---
+|
+---
+|
+|
+ 2.1 
+|
+`=`
+|
+ is equal to 
+|
+|
+ 2.2 
+|
+`≠`
+|
+ is not equal to 
+|
+|
+ 2.3 
+|
+`≡`
+|
+ is identical to / is congruent to 
+|
+|
+ 2.4 
+|
+`≈`
+|
+ is approximately equal to 
+|
+|
+ 2.5 
+|
+`∞`
+|
+ infinity 
+|
+|
+ 2.6 
+|
+`∝`
+|
+ is proportional to 
+|
+|
+ 2.7 
+|
+`∴`
+|
+ therefore 
+|
+|
+ 2.8 
+|
+`∵`
+|
+ because 
+|
+|
+ 2.9 
+|
+`<`
+|
+ is less than 
+|
+|
+ 2.10 
+|
+`>`
+|
+ is greater than 
+|
+|
+ 2.11 
+|
+`≤`
+|
+ is less than or equal to 
+|
+|
+ 2.12 
+|
+`≥`
+|
+ is greater than or equal to 
+|
+|
+ 2.13 
+|
+`p ⇒ q`
+|
+ p implies q (if p then q) 
+|
+|
+ 2.14 
+|
+`p ⇐ q`
+|
+ p is implied by q (if q then p) 
+|
+|
+ 2.15 
+|
+`p ⇔ q`
+|
+ p implies and is implied by q (p is equivalent to q) 
+|
+### 7.3 Operations
+|
+#
+|
+ Notation 
+|
+ Meaning 
+|
+|
+---
+|
+---
+|
+---
+|
+|
+ 3.1 
+|
+`a + b`
+|
+ a plus b 
+|
+|
+ 3.2 
+|
+`a − b`
+|
+ a minus b 
+|
+|
+ 3.3 
+|
+`a × b`
+, 
+`ab`
+, 
+`a·b`
+|
+ a multiplied by b 
+|
+|
+ 3.4 
+|
+`a ÷ b`
+, 
+`a/b`
+|
+ a divided by b 
+|
+|
+ 3.5 
+|
+`Σaᵢ`
+|
+ a₁ + a₂ + ... + aₙ 
+|
+|
+ 3.6 
+|
+`∏aᵢ`
+|
+ a₁ × a₂ × ... × aₙ 
+|
+|
+ 3.7 
+|
+`√a`
+|
+ the non-negative square root of a 
+|
+|
+ 3.8 
+|
+`|a|`
+|
+ the modulus of a 
+|
+|
+ 3.9 
+|
+`n!`
+|
+ n factorial: n × (n−1) × ... × 2 × 1, for n ∈ ℤ⁺ (0! = 1) 
+|
+|
+ 3.10 
+|
+`ⁿCᵣ`
+, 
+`C(n,r)`
+, 
+`(n choose r)`
+|
+ the binomial coefficient n!/(r!(n−r)!) 
+|
+### 7.4 Functions
+|
+#
+|
+ Notation 
+|
+ Meaning 
+|
+|
+---
+|
+---
+|
+---
+|
+|
+ 4.1 
+|
+`f(x)`
+|
+ the value of the function f at x 
+|
+|
+ 4.2 
+|
+`f : A → B`
+|
+ f is a function under which each element of set A has an image in set B 
+|
+|
+ 4.3 
+|
+`f : x ↦ y`
+|
+ the function f maps the element x to the element y 
+|
+|
+ 4.4 
+|
+`f⁻¹`
+|
+ the inverse function of the function f 
+|
+|
+ 4.5 
+|
+`gf`
+|
+ the composite function of f and g (apply f first, then g) 
+|
+|
+ 4.6 
+|
+`lim f(x)`
+ as 
+`x→a`
+|
+ the limit of f(x) as x tends to a 
+|
+|
+ 4.7 
+|
+`Δx`
+, 
+`δx`
+|
+ an increment of x 
+|
+|
+ 4.8 
+|
+`dy/dx`
+|
+ the derivative of y with respect to x 
+|
+|
+ 4.9 
+|
+`dⁿy/dxⁿ`
+|
+ the nth derivative of y with respect to x 
+|
+|
+ 4.10 
+|
+`f′(x)`
+, 
+`f″(x)`
+, ..., 
+`f⁽ⁿ⁾(x)`
+|
+ the first, second, ..., nth derivatives of f(x) 
+|
+|
+ 4.11 
+|
+`ẋ`
+, 
+`ẍ`
+, ... 
+|
+ the first, second, ... derivatives of x with respect to t 
+|
+|
+ 4.12 
+|
+`∫y dx`
+|
+ the indefinite integral of y with respect to x 
+|
+|
+ 4.13 
+|
+`∫ₐᵇ y dx`
+|
+ the definite integral of y w.r.t. x between a and b 
+|
+|
+ 4.14 
+|
+`∂V/∂x`
+|
+ the partial derivative of V with respect to x 
+|
+### 7.5 Exponential and Logarithmic Functions
+|
+#
+|
+ Notation 
+|
+ Meaning 
+|
+|
+---
+|
+---
+|
+---
+|
+|
+ 5.1 
+|
+`e`
+|
+ base of natural logarithms, 2.71828... 
+|
+|
+ 5.2 
+|
+`eˣ`
+, 
+`exp(x)`
+|
+ exponential function of x 
+|
+|
+ 5.3 
+|
+`logₐ x`
+|
+ logarithm to the base a of x 
+|
+|
+ 5.4 
+|
+`ln x`
+, 
+`logₑ x`
+|
+ natural logarithm of x 
+|
+### 7.6 Trigonometric Functions
+|
+#
+|
+ Notation 
+|
+ Meaning 
+|
+|
+---
+|
+---
+|
+---
+|
+|
+ 6.1 
+|
+`sin`
+, 
+`cos`
+, 
+`tan`
+, 
+`cosec`
+, 
+`sec`
+, 
+`cot`
+|
+ the trigonometric functions 
+|
+|
+ 6.2 
+|
+`sin⁻¹`
+, 
+`cos⁻¹`
+, 
+`tan⁻¹`
+ (
+`arcsin`
+, 
+`arccos`
+, 
+`arctan`
+) 
+|
+ the inverse trigonometric functions 
+|
+|
+ 6.3 
+|
+`°`
+|
+ degrees 
+|
+|
+ 6.4 
+|
+`rad`
+|
+ radians 
+|
+### 7.7 Complex Numbers
+|
+#
+|
+ Notation 
+|
+ Meaning 
+|
+|
+---
+|
+---
+|
+---
+|
+|
+ 7.1 
+|
+`i`
+, 
+`j`
+|
+ square root of −1 
+|
+|
+ 7.2 
+|
+`x + iy`
+|
+ complex number with real part x and imaginary part y 
+|
+|
+ 7.3 
+|
+`Re(z)`
+|
+ the real part of z 
+|
+|
+ 7.4 
+|
+`Im(z)`
+|
+ the imaginary part of z 
+|
+|
+ 7.5 
+|
+`|z|`
+|
+ the modulus of z 
+|
+|
+ 7.6 
+|
+`arg(z)`
+|
+ the argument of z 
+|
+|
+ 7.7 
+|
+`z*`
+|
+ the complex conjugate of z 
+|
+### 7.8 Matrices
+|
+#
+|
+ Notation 
+|
+ Meaning 
+|
+|
+---
+|
+---
+|
+---
+|
+|
+ 8.1 
+|
+**
+M
+**
+|
+ a matrix M 
+|
+|
+ 8.2 
+|
+**
+0
+**
+|
+ zero matrix 
+|
+|
+ 8.3 
+|
+**
+I
+**
+|
+ identity matrix 
+|
+|
+ 8.4 
+|
+`M⁻¹`
+|
+ the inverse of the matrix M 
+|
+|
+ 8.5 
+|
+`Mᵀ`
+|
+ the transpose of the matrix M 
+|
+|
+ 8.6 
+|
+`det M`
+, 
+`|M|`
+|
+ the determinant of the square matrix M 
+|
+|
+ 8.7 
+|
+`Mr`
+|
+ image of column vector r under the transformation associated with M 
+|
+### 7.9 Vectors
+|
+#
+|
+ Notation 
+|
+ Meaning 
+|
+|
+---
+|
+---
+|
+---
+|
+|
+ 9.1 
+|
+**
+a
+**
+, 
+`a̲`
+, 
+`→AB`
+|
+ the vector a, the vector represented by the directed line segment AB 
+|
+|
+ 9.2 
+|
+`â`
+|
+ a unit vector in the direction of a 
+|
+|
+ 9.3 
+|
+`|a|`
+, 
+`|→AB|`
+|
+ the magnitude of a 
+|
+|
+ 9.4 
+|
+`a·b`
+|
+ the scalar product of a and b 
+|
+|
+ 9.5 
+|
+`a × b`
+|
+ the vector product of a and b 
+|
+|
+ 9.6 
+|
+**
+i
+**
+, 
+**
+j
+**
+, 
+**
+k
+**
+|
+ unit vectors in the directions of the Cartesian coordinate axes 
+|
+|
+ 9.7 
+|
+**
 r
-, n C r , n C r
-the binomial coefficient r! nn −! r!
-for n , r ∊ ℤ 0 + , r ⩽ n
-or nn −^1 ... r! n − r + 1
-for n ∊ ℚ , r ∊ ℤ 0 +
-Operations (Further Maths only)
-
-3 Operations Meaning
-3.11 a × nb multiplication modulo n of a by b
-3.12 a + nb addition modulo n of a and b
-3.13 G = < n > ,* n is the generator of a given group G under the
-operation *
-6.4 Functions
-4 Functions Meaning
-4.1 f x the value of the function f at x
-4.2 f: x y the function f maps the element x to the element y
-4 Functions Meaning
-4.3 f−^1 the inverse function of the function f
-4.4 gf the composite function of gf x =gf x f and g which is defined by
-
-4.5 x lim a f x the limit of f x as x tends to a
-
-4.6 Δ x ,𝐀 x an increment of x
-
-4.7 dd yx the derivative of y with respect to x
-
-4.8 d
-ny
-d xn the n th derivative of y with respect to x
-4.9 f′ x ,f′′ x ,...,f n x the first, second, ..., to x n th derivatives of f x with respect
-
-4.10 x ̇, x ̈,... the first, second, ... derivatives of x with respect to t
-4.11 ∫ y d x the indefinite integral of y with respect to x
-4.12 ∫ aby d x the definite integral of limits x = a and x = b y with respect to x between the
-
-6.5 Exponential and logarithmic functions
-5 Exponential andlogarithmic functions Meaning
-5.1 e base of natural logarithms
-5.2 e x , exp x exponential function of x
-5.3 log a x logarithm to the base a of x
-
-5.4 ln x , loge x natural logarithm of x
-
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-6.6 Trigonometric functions
-6 Trigonometric functions Meaning
-6.1 sin, cos, tan,
-cosec, sec, cot
-the trigonometric functions
-6.2 sin
-− (^1) ,cos− (^1) ,tan− 1
-arcsin,arccos,arctan
-the inverse trigonometric functions
-6.3 ° degrees
-6.4 rad radians
-Trigonometric functions (Further Maths only)
-6 Trigonometric functions Meaning
-6.5 cosec−^1 ,sec−^1 ,cot−^1 ,
-arccosec,arcsec,arccot
-the inverse trigonometric functions
-6.6 sinh,cosh,tanh,
-cosech,sech,coth
-the hyperbolic functions
-6.7 sinh−^1 ,cosh−^1 ,tanh−^1
-cosech−^1 ,sech−^1 ,coth−^1
-arcsinh,arccosh,arctanh,
-arccosech,arcsech,arccoth
-the inverse hyperbolic functions
-
-6.7 Complex numbers (Further Maths only)
-7 Complex numbers Meaning
-7.1 i , j square root of − 1
-7.2 x +i y complex number with real part x and imaginary part y
-7.3 r cos𝐀+isin𝐀 modulus argument form of a complex number withmodulus r and argument 𝐀
-
-7.4 z a complex number, z = x +i y = r cos𝐀+isin𝐀
-
-7 Complex numbers Meaning
-7.5 Re z the real part of z , Re z = x
-7.6 Im z the imaginary part of z , Im z = y
-7.7 z the modulus of z , z = r = x^2 + y^2
-
-7.8 arg z the argument of z , arg z =𝐀, −π<𝐀≤π
-7.9 z * the complex conjugate of z , x −i y
-Matrices (Further Maths only)
-8 Matrices Meaning
-8.1 M a matrix M
-8.2 0 zero matrix
-8.3 I identity matrix
-8.4 M − (^1) the inverse of the matrix M
-8.5 M T the transpose of the matrix M
-8.6 Δ, det M or M the determinant of the square matrix M
-8.7 Mr image of column vector r under the transformation
-associated with the matrix M
-
-6.9 Vectors
-9 Vectors Meaning
-9.1 a , a ̲ , a the vector a , a ̲ ,
-
-a ; these alternatives apply throughout
-section 9
-9.2 AB the vector represented in magnitude and direction bythe directed line segment AB
-9.3 a a unit vector in the direction of a
-
-9.4 i , j , k unit vectors in the directions of the cartesian coordinateaxes
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-9 Vectors Meaning
-9.5 a , a the magnitude of a
-9.6 AB , AB the magnitude of AB
-9.7 a
-b
-, a i + b j column vector and corresponding unit vector notation
-9.8 r position vector
-9.9 s displacement vector
-9.10 v velocity vector
-9.11 a acceleration vector
-Vectors (Further Maths only)
-
-9 Vectors Meaning
-9.12 a. b the scalar product of a and b
-6.10 Differential equations (Further Maths only)
-10 Differential equations Meaning
-10.1 𝐀 angular speed
-6.11 Probability and statistics
-11 Probability and statistics Meaning
-11.1 A , B , C etc. events
-11.2 A ∪ B union of the events A and B
-11.3 A ∩ B intersection of the events A and B
-11.4 P A probability of the event A
-11.5 A ′ complement of the event A
-11.6 P A B probability of the event A conditional on the event B
-11 Probability and statistics Meaning
-
-11.7 X , Y , R etc. random variables
-
-11.8 x , y , r etc. values of the random variables X , Y , R etc.
-
-11.9 x 1 , x 2 ,... values of observations
-
-11.10 f 1 , f 2 ,... frequencies with which the observations x 1 , x 2 ,... occur
-
-11.11 p x ,P X = x probability function of the discrete random variable X
-
-11.12 p 1 , p 2,... probabilities of the values random variable X x^1 , x^2 ,... of the discrete
-
-11.13 E X expectation of the random variable X
-
-11.14 Var X variance of the random variable X
-
-11.15 has the distribution
-
-11.16 B n , p
-
-binomial distribution with parameters n and p , where n
-is the number of trials and p is the probability of
-success in a trial
-11.17 q q = 1− p for binomial distribution
-
-11.18 N𝐀,𝐀^2 Normal distribution with mean 𝐀 and variance 𝐀^2
-
-11.19 Z N 0,1 standard Normal distribution
-
-11.20 𝐀 probability density function of the standardised Normalvariable with distribution N0,1
-
-11.21 Φ corresponding cumulative distribution function
-
-11.22 𝐀 population mean
-
-11.23 𝐀^2 population variance
-
-11.24 𝐀 population standard deviation
-
-11.25 x ̅ sample mean
-
-11.26 s^2 sample variance
-
-11.27 s sample standard deviation
-
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-11 Probability and statistics Meaning
-11.28 H 0 null hypothesis
-11.29 H 1 alternative hypothesis
-11.30 r product moment correlation coefficient for a sample
-11.31 𝐀 product moment correlation coefficient for a population
-6.12 Mechanics
-12 Mechanics Meaning
-12.1 kg kilogram
-12.2 m metre
-12.3 km kilometre
-12.4 m/s, m s−^1 metre(s) per second (velocity)
-12.5 m/s^2 , m s−^2 metre(s) per second per second (acceleration)
-12.6 F Force or resultant force
-12.7 N newton
-12.8 Nm newton metre (moment of a force)
-12.9 t time
-12.10 s displacement
-12.11 u initial velocity
-12.12 v velocity or final velocity
-12.13 a acceleration
-12.14 g acceleration due to gravity
-12.15 𝐀 coefficient of friction
-7 Appendix B: mathematical
-formulae and identities
-Students must be able to use the following formulae and identities for AS and A-level further
-mathematics, without these formulae and identities being provided, either in these forms or in
-equivalent forms. These formulae and identities may only be provided where they are the starting
-point for a proof or as a result to be proved.
-
-Pure mathematics
-Quadratic equations
-
-ax^2 + bx + c = 0 has roots − b ± b
-
-(^2) − 4 ac
-2 a
-Laws of indices
-axay ≡ ax + y
-ax ÷ ay ≡ ax − y
-axy ≡ axy
-Laws of logarithms
-x = an n = log ax for a > 0 and x > 0
-log ax + log ay ≡log axy
-log ax −log ay ≡log axy
-k log ax ≡log axk
-Coordinate geometry
-A straight line graph, gradient m passing through x 1 , y 1 has equation
-y − y 1 = mx − x 1
-Straight lines with gradients m 1 and m 2 are perpendicular when m 1 m 2 = − 1
-Sequences
-General term of an arithmetic progression: un = a + n − 1 d
-General term of a geometric progression: un = arn −^1
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-
-Trigonometry
-
-In the triangle ABC
-
-Sine rule: sin aA = sin bB = sin cC
-
-Cosine rule: a^2 = b^2 + c^2 − 2 bc cos A
-
-Area =^12 ab sin C
-
-cos^2 A + sin^2 A ≡ 1
-
-sec^2 A ≡1 + tan^2 A
-
-cosec^2 A ≡1 + cot^2 A
-sin2 A ≡2sin A cos A
-
-cos2 A ≡cos^2 A −sin^2 A
-
-tan2 A ≡ 1 2tan−tan A (^2) A
-Mensuration
-Circumference and Area of circle, radius r and diameter d :
-C = 2π r =π d
-A =π r^2
-Pythagoras’ Theorem: In any right-angled triangle where a , b and c are the lengths of the sides
-and c is the hypotenuse:
-c^2 = a^2 + b^2
-Area of a trapezium =^12 a + bh , where a and b are the lengths of the parallel sides and h is their
-perpendicular separation.
-Volume of a prism = area of cross section × length
-For a circle of radius r , where an angle at the centre of 𝐀 radians subtends an arc of length s and
-encloses an associated sector of area A :
-s = r 𝐀
-A =^12 r^2 𝐀
-Complex numbers
-For two complex numbers z 1 = r 1 ei𝐀^1 and z 2 = r 2 ei𝐀^2 :
-z 1 z 2 = r 1 r 2 ei𝐀^1 +𝐀^2
-z 1
-z 2 =
-r 1
-r 2 e
-i𝐀 1 +𝐀 2
-
-Loci in the Argand diagram:
-z − a = r is a circle radius r centred at a
-
-arg z − a =𝐀 is a half line drawn from a at angle 𝐀 to a line parallel to the positive real axis.
-Exponential form:
-
-ei𝐀= cos𝐀+isin𝐀
-
-Matrices
-
-For a 2 by 2 matrix a b
-c d
-the determinant ∆= a b
-c d
-= ad − bc
-
-the inverse is^1 ∆ d − b
-− c a
-The transformation represented by matrix AB is the transformation represented by matrix B
-followed by the transformation represented by matrix A.
-For matrices A , B :
-( AB )–1 = B –1 A –1
-
-Algebra
-
-∑ rn = 1 r =^12 nn + 1
-
-For ax^2 + bx + c = 0 with roots 𝐀 and 𝐀 :
-
-𝐀+𝐀=− ab
-
-𝐀𝐀= ca
-
-For ax^3 + bx^2 + cx + d = 0 with roots 𝐀 , 𝐀 and 𝐀 :
-
-∑𝐀=− ab
-
-∑𝐀𝐀= ca
-
-𝐀𝐀𝐀=− ad
-
-Hyperbolic functions
-
-cosh x ≡^12 e x +e− x
-
-sinh x ≡^12 e x −e− x
-
-tanh x ≡coshsinh xx
-
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-Calculus and differential equations
-Differentiation
-
-Function Derivative
-xn nxn −^1
-sin kx k cos kx
-cos kx − k sin kx
-e kx k e kx
-ln x^1 x
-f x +g x f′ x +g′ x
-f x g x f′ x g x +f x g′ x
-f g x f′g x g′ x
-
-Integration
-
-Function Integral
-xn n^1 + 1 xn + 1+ c , n ≠− 1
-cos kx^1 k sin kx + c
-
-sin kx −^1 k cos kx + c
-
-e kx^1 k e kx + c
-1
-x ln x + c , x ≠^0
-f ′ x +g′ x f x +g x + c
-f ′g x g′ x fg x + c
-Area under a curve =∫ aby d x y ≥ 0
-
-Volumes of revolution about the x and y axes:
-
-Vx =π∫ aby^2 d x
-
-Vy =π∫ cdx^2 d y
-
-Simple Harmonic Motion:
-
-x ̈= −𝐀^2 x
-
-Vectors
-
-x i + y j + z k = x^2 + y^2 + z^2
-
-Scalar product of two vectors a =
-
-a 1
-a 2
-a 3
-and b =
-b 1
-b 2
-b 3
-is
-a 1
-a 2
-a 3
-.
-b 1
-b 2
-b 3
-= a 1 b 1 + a 2 b 2 + a 3 b 3 = a b cos𝐀
-
-where 𝐀 is the acute angle between the vectors a and b.
-The equation of the line through the point with position vector a parallel to vector b is:
-r = a + t b
-The equation of the plane containing the point with position vector a and perpendicular to vector n
-is:
-( r – a ). n = 0
-
-Mechanics
-Forces and equilibrium
-
-Weight = mass × g
-
-Friction: F ≤𝐀 R
-Newton’s second law in the form: F = ma
-
-Kinematics
-For motion in a straight line with variable acceleration:
-
-v =dd rt
-
-a =dd vt =d
-
-(^2) r
-d t^2
-r =∫ v d t
-v =∫ a d t
-A-level Further Mathematics 7367. A-level exams June 2019 onwards. Version 1.1 19 October 2017
-
-Statistics
-The mean of a set of data: x ̅=∑ nx =∑∑ ffx
-
-The standard Normal variable: Z = X −𝐀𝐀 where X N𝐀,𝐀^2
-
-Get help and support
-Visit our website for information, guidance, support and resources at aqa.org.uk/7367
-You can talk directly to the Further Mathematics subject team:
-E: maths@aqa.org.uk
-T: 0161 957 3852
-
-aqa.org.uk
-Copyright © 2017 AQA and its licensors. All rights reserved.
-AQA retains the copyright on all its publications, including the specifications. However, schools and colleges registered with AQA arepermitted to copy material from this specification for their own internal use.
-AQA Education (AQA) is a registered charity (number 1073334) and a company limited by guarantee registered in England and Wales
-(company number 3644723). Our registered address is AQA, Devas Street, Manchester M15 6EX.
+**
+|
+ position vector 
+|
+### 7.10 Differential Equations
+|
+#
+|
+ Notation 
+|
+ Meaning 
+|
+|
+---
+|
+---
+|
+---
+|
+|
+ 10.1 
+|
+`ω`
+|
+ angular speed / angular frequency 
+|
+### 7.11 Probability and Statistics
+|
+#
+|
+ Notation 
+|
+ Meaning 
+|
+|
+---
+|
+---
+|
+---
+|
+|
+ 11.1 
+|
+`A`
+, 
+`B`
+, 
+`C`
+, etc. 
+|
+ events 
+|
+|
+ 11.2 
+|
+`A ∪ B`
+|
+ union of events A and B 
+|
+|
+ 11.3 
+|
+`A ∩ B`
+|
+ intersection of events A and B 
+|
+|
+ 11.4 
+|
+`P(A)`
+|
+ probability of event A 
+|
+|
+ 11.5 
+|
+`A′`
+|
+ complement of event A 
+|
+|
+ 11.6 
+|
+`P(A|B)`
+|
+ probability of A given B 
+|
+|
+ 11.7 
+|
+`X`
+, 
+`Y`
+, 
+`R`
+, etc. 
+|
+ random variables 
+|
+|
+ 11.8 
+|
+`x`
+, 
+`y`
+, 
+`r`
+, etc. 
+|
+ values of random variables 
+|
+|
+ 11.9 
+|
+`x₁, x₂, ...`
+|
+ observations 
+|
+|
+ 11.10 
+|
+`f₁, f₂, ...`
+|
+ frequencies with which observations x₁, x₂, ... occur 
+|
+|
+ 11.11 
+|
+`p(x)`
+, 
+`P(X = x)`
+|
+ probability function of the DRV X 
+|
+|
+ 11.12 
+|
+`p₁, p₂, ...`
+|
+ probabilities of the values x₁, x₂, ... of the DRV X 
+|
+|
+ 11.13 
+|
+`f(x)`
+|
+ the value of the probability density function of the CRV X 
+|
+|
+ 11.14 
+|
+`F(x)`
+, 
+`P(X ≤ x)`
+|
+ the value of the cumulative distribution function of the CRV X 
+|
+|
+ 11.15 
+|
+`E(X)`
+|
+ expectation of the random variable X 
+|
+|
+ 11.16 
+|
+`Var(X)`
+|
+ variance of the random variable X 
+|
+|
+ 11.17 
+|
+`~`
+|
+ has the distribution 
+|
+|
+ 11.18 
+|
+`B(n, p)`
+|
+ binomial distribution with parameters n and p 
+|
+|
+ 11.19 
+|
+`N(μ, σ²)`
+|
+ normal distribution with mean μ and variance σ² 
+|
+|
+ 11.20 
+|
+`μ`
+|
+ population mean 
+|
+|
+ 11.21 
+|
+`σ²`
+|
+ population variance 
+|
+|
+ 11.22 
+|
+`σ`
+|
+ population standard deviation 
+|
+|
+ 11.23 
+|
+`x̄`
+|
+ sample mean 
+|
+|
+ 11.24 
+|
+`s²`
+|
+ sample variance 
+|
+|
+ 11.25 
+|
+`s`
+|
+ sample standard deviation 
+|
+|
+ 11.26 
+|
+`H₀`
+|
+ null hypothesis 
+|
+|
+ 11.27 
+|
+`H₁`
+|
+ alternative hypothesis 
+|
+|
+ 11.28 
+|
+`r`
+|
+ product moment correlation coefficient for a sample 
+|
+|
+ 11.29 
+|
+`ρ`
+|
+ product moment correlation coefficient for a population 
+|
+|
+ 11.30 
+|
+`Po(λ)`
+|
+ Poisson distribution with parameter λ 
+|
+|
+ 11.31 
+|
+`Geo(p)`
+|
+ geometric distribution with parameter p 
+|
+|
+ 11.32 
+|
+`χ²`
+|
+ chi-squared statistic 
+|
+|
+ 11.33 
+|
+`ν`
+|
+ degrees of freedom 
+|
+|
+ 11.34 
+|
+`t_n`
+|
+ t-distribution with n degrees of freedom 
+|
+### 7.12 Mechanics
+|
+#
+|
+ Notation 
+|
+ Meaning 
+|
+|
+---
+|
+---
+|
+---
+|
+|
+ 12.1 
+|
+`kg`
+|
+ kilograms 
+|
+|
+ 12.2 
+|
+`m`
+|
+ metres 
+|
+|
+ 12.3 
+|
+`km`
+|
+ kilometres 
+|
+|
+ 12.4 
+|
+`s`
+|
+ seconds 
+|
+|
+ 12.5 
+|
+`min`
+|
+ minutes 
+|
+|
+ 12.6 
+|
+`h`
+, 
+`hr`
+|
+ hours 
+|
+|
+ 12.7 
+|
+`ms⁻¹`
+|
+ metres per second 
+|
+|
+ 12.8 
+|
+`ms⁻²`
+|
+ metres per second per second (acceleration) 
+|
+|
+ 12.9 
+|
+`N`
+|
+ newtons 
+|
+|
+ 12.10 
+|
+`Nm`
+|
+ newton metres (torque/moment) 
+|
+|
+ 12.11 
+|
+`g`
+|
+ acceleration due to gravity 
+|
+|
+ 12.12 
+|
+`μ`
+|
+ coefficient of friction 
+|
+---
+## 8. Appendix B — Mathematical Formulae and Identities
+These formulae are provided in the exam formula booklet. Students are expected to use (but not necessarily memorise) them.
+### 8.1 Pure Mathematics
+#### Summations
+$$\sum_{r=1}^{n} r = \frac{1}{2}n(n+1)$$
+$$\sum_{r=1}^{n} r^2 = \frac{1}{6}n(n+1)(2n+1)$$
+$$\sum_{r=1}^{n} r^3 = \frac{1}{4}n^2(n+1)^2$$
+#### Matrix Transformations (2D)
+Anticlockwise rotation through angle θ about O:
+```
+⎛ cos θ  −sin θ ⎞
+⎝ sin θ   cos θ ⎠
+```
+Reflection in the line `y = x tan θ`:
+```
+⎛ cos 2θ   sin 2θ ⎞
+⎝ sin 2θ  −cos 2θ ⎠
+```
+#### Conics
+|
+ Curve 
+|
+ Equation 
+|
+ Eccentricity 
+|
+ Foci 
+|
+ Directrices 
+|
+|
+---
+|
+---
+|
+---
+|
+---
+|
+---
+|
+|
+ Parabola 
+|
+ y² = 4ax 
+|
+ e = 1 
+|
+ (a, 0) 
+|
+ x = −a 
+|
+|
+ Ellipse 
+|
+ x²/a² + y²/b² = 1 
+|
+ e < 1 ; b² = a²(1 − e²) 
+|
+ (±ae, 0) 
+|
+ x = ±a/e 
+|
+|
+ Hyperbola 
+|
+ x²/a² − y²/b² = 1 
+|
+ e > 1 ; b² = a²(e² − 1) 
+|
+ (±ae, 0) 
+|
+ x = ±a/e 
+|
+#### Trigonometric Identities
+```
+sin(A ± B) = sin A cos B ± cos A sin B
+cos(A ± B) = cos A cos B ∓ sin A sin B
+tan(A ± B) = (tan A ± tan B) / (1 ∓ tan A tan B)
+```
+#### Hyperbolic Functions
+```
+cosh²x − sinh²x ≡ 1
+sinh 2x ≡ 2 sinh x cosh x
+cosh 2x ≡ cosh²x + sinh²x
+```
+Inverse hyperbolic functions (logarithmic forms):
+```
+arsinh x = ln(x + √(x² + 1))
+arcosh x = ln(x + √(x² − 1)),  x ≥ 1
+artanh x = ½ ln((1 + x)/(1 − x)),  |x| < 1
+```
+#### Differentiation
+|
+ f(x) 
+|
+ f′(x) 
+|
+|
+---
+|
+---
+|
+|
+`sin⁻¹ x`
+|
+`1/√(1 − x²)`
+|
+|
+`cos⁻¹ x`
+|
+`−1/√(1 − x²)`
+|
+|
+`tan⁻¹ x`
+|
+`1/(1 + x²)`
+|
+|
+`sinh x`
+|
+`cosh x`
+|
+|
+`cosh x`
+|
+`sinh x`
+|
+|
+`tanh x`
+|
+`sech² x`
+|
+|
+`sinh⁻¹ x`
+|
+`1/√(1 + x²)`
+|
+|
+`cosh⁻¹ x`
+|
+`1/√(x² − 1)`
+|
+|
+`tanh⁻¹ x`
+|
+`1/(1 − x²)`
+|
+#### Integration (in addition to standard results)
+|
+ f(x) 
+|
+ ∫f(x) dx 
+|
+|
+---
+|
+---
+|
+|
+`1/√(a² − x²)`
+|
+`sin⁻¹(x/a) + C`
+,  
+`|x| < a`
+|
+|
+`1/(a² + x²)`
+|
+`(1/a) tan⁻¹(x/a) + C`
+|
+|
+`1/√(x² + a²)`
+|
+`sinh⁻¹(x/a) + C`
+  or  
+`ln(x + √(x² + a²)) + C`
+|
+|
+`1/√(x² − a²)`
+|
+`cosh⁻¹(x/a) + C`
+  or  
+`ln(x + √(x² − a²)) + C`
+,  
+`x > a`
+|
+#### Arc Length
+Cartesian: `s = ∫ₐᵇ √(1 + (dy/dx)²) dx`
+Parametric: `s = ∫ₜ₁ᵗ² √((dx/dt)² + (dy/dt)²) dt`
+#### Surface Area of Revolution
+Cartesian: `S = 2π ∫ₐᵇ y √(1 + (dy/dx)²) dx`
+Parametric: `S = 2π ∫ₜ₁ᵗ² y √((dx/dt)² + (dy/dt)²) dt`
+#### Polar Coordinates
+Area: `A = ½ ∫ᵅᵝ r² dθ`
+#### Maclaurin Series
+```
+eˣ = 1 + x + x²/2! + ... + xʳ/r! + ...           (all x)
+ln(1 + x) = x − x²/2 + x³/3 − ... + (−1)ʳ⁺¹xʳ/r + ...   (−1 < x ≤ 1)
+sin x = x − x³/3! + x⁵/5! − ... + (−1)ʳx²ʳ⁺¹/(2r+1)! + ...   (all x)
+cos x = 1 − x²/2! + x⁴/4! − ... + (−1)ʳx²ʳ/(2r)! + ...   (all x)
+(1 + x)ⁿ = 1 + nx + n(n−1)x²/2! + ... + n(n−1)...(n−r+1)xʳ/r! + ...   (|x| < 1, n ∈ ℝ)
+sinh x = x + x³/3! + x⁵/5! + ... + x²ʳ⁺¹/(2r+1)! + ...   (all x)
+cosh x = 1 + x²/2! + x⁴/4! + ... + x²ʳ/(2r)! + ...   (all x)
+artanh x = x + x³/3 + x⁵/5 + ... + x²ʳ⁺¹/(2r+1) + ...   (|x| < 1)
+```
+#### Numerical Integration
+**Mid-ordinate rule:**
+`∫ₐᵇ y dx ≈ h(y₁/₂ + y₃/₂ + ... + y_(n−1/2))`  where `h = (b − a)/n`
+**Simpson's rule:**
+`∫ₐᵇ y dx ≈ (h/3)[y₀ + 4(y₁ + y₃ + ...) + 2(y₂ + y₄ + ...) + yₙ]`  where `h = (b − a)/n`, n even
+#### Numerical Solution of Differential Equations
+**Euler's method:**
+`y_(r+1) = y_r + h·f(x_r, y_r)`,  `x_(r+1) = x_r + h`
+**Improved Euler method:**
+`y_(r+1) = y_(r−1) + 2h·f(x_r, y_r)`,  `x_(r+1) = x_r + h`
+### 8.2 Mechanics
+#### Centres of Mass
+|
+ Body 
+|
+ Distance from symmetry base/point 
+|
+|
+---
+|
+---
+|
+|
+ Solid hemisphere, radius r 
+|
+ 3r/8 from flat face 
+|
+|
+ Hemispherical shell, radius r 
+|
+ r/2 from flat face 
+|
+|
+ Solid cone/pyramid, height h 
+|
+ h/4 above the base 
+|
+|
+ Conical shell, height h 
+|
+ h/3 above the base 
+|
+#### Moments of Inertia (if applicable)
+Standard results for uniform bodies about axes of symmetry.
+### 8.3 Statistics
+#### Discrete Distributions
+**Binomial** `X ~ B(n, p)`:
+- `P(X = x) = C(n,x) · pˣ · (1−p)ⁿ⁻ˣ`
+- Mean = np
+- Variance = np(1 − p)
+**Poisson** `X ~ Po(λ)`:
+- `P(X = x) = e⁻λ · λˣ / x!`
+- Mean = λ
+- Variance = λ
+**Geometric** `X ~ Geo(p)`:
+- `P(X = x) = p(1 − p)ˣ⁻¹`
+- Mean = 1/p
+- Variance = (1 − p)/p²
+#### Continuous Distributions
+**Exponential** `X ~ Exp(λ)`:
+- `f(x) = λe⁻λˣ`, x ≥ 0
+- `F(x) = 1 − e⁻λˣ`, x ≥ 0
+- Mean = 1/λ
+- Variance = 1/λ²
+**Uniform (Rectangular)** `X ~ U[a, b]`:
+- `f(x) = 1/(b − a)`, a ≤ x ≤ b
+- Mean = (a + b)/2
+- Variance = (b − a)²/12
+#### Correlation and Regression
+Product moment correlation coefficient:
+```
+r = (Sxy) / √(Sxx · Syy)
+```
+where `Sxx = Σ(xᵢ − x̄)² = Σxᵢ² − nx̄²`, `Syy = Σ(yᵢ − ȳ)²`, `Sxy = Σ(xᵢ − x̄)(yᵢ − ȳ)`
+#### Hypothesis Testing
+Chi-squared test statistic:
+```
+χ² = Σ (Oᵢ − Eᵢ)² / Eᵢ
+```
+Yates' correction (2×2 tables):
+```
+χ² = Σ (|Oᵢ − Eᵢ| − 0.5)² / Eᵢ
+```
+Degrees of freedom for contingency table: `ν = (rows − 1)(columns − 1)`
+#### Confidence Intervals
+For the mean of a Normal distribution with known variance σ²:
+```
+x̄ ± z* · σ/√n
+```
+For the mean of a Normal distribution with unknown variance (small sample):
+```
+x̄ ± t_(n−1) · s/√n
+```
+---
+> **Note for AI agents**: This document contains the complete AQA A-Level Further Mathematics (7367) specification content. When solving exam questions, cross-reference the specification code (e.g. B8, C11, I5) to identify which topic area is being tested. Past papers will test content from sections A–J in Papers 1 and 2, and from the chosen optional applications in Paper 3.
