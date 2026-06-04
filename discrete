@@ -1,0 +1,1235 @@
+G/LM/Jun24/G4006/V9 7367/3D
+(JUN2473673D01)
+A-level
+FURTHER MATHEMATICS
+Paper 3 Discrete
+Friday 7 June 2024 Afternoon Time allowed: 2 hours
+Materials
+l You must have the AQA Formulae and statistical tables booklet for
+A-level Mathematics and A-level Further Mathematics.
+l You should have a graphical or scientific calculator that meets the
+requirements of the specification.
+l You must ensure you have the other optional Question Paper/Answer Book
+for which you are entered (either Mechanics or Statistics). You will have
+2 hours to complete both papers.
+
+Instructions
+l Use black ink or black ball-point pen. Pencil should only be used for drawing.
+l Fill in the boxes at the top of this page.
+l Answer all questions.
+l You must answer each question in the space provided for that question.
+If you require extra space for your answer(s), use the lined pages at the end
+of this book. Write the question number against your answer(s).
+l Do not write outside the box around each page or on blank pages.
+l Show all necessary working; otherwise marks for method may be lost.
+l Do all rough work in this book. Cross through any work that you do not want
+to be marked.
+
+Information
+l The marks for questions are shown in brackets.
+l The maximum mark for this paper is 50.
+
+Advice
+l Unless stated otherwise, you may quote formulae, without proof, from the booklet.
+l You do not necessarily need to use all the space provided.
+
+For Examiner’s Use
+Question Mark
+1 2 3 4 5 6 7 8 9
+10
+TOTAL
+Please write clearly in block capitals.
+Centre number Candidate number
+Surname _________________________________________________________________________
+Forename(s) _________________________________________________________________________
+Candidate signature _________________________________________________________________________
+I declare this is my own work.
+2
+Do not write
+outside the
+box
+(02)
+Answer all questions in the spaces provided.
+1 Which one of the following sets forms a group under the given binary operation?
+
+Tick () one box.
+[1 mark]
+
+Set Binary Operation
+{1, 2, 3} Addition modulo 4
+{1, 2, 3} Multiplication modulo 4
+{0, 1, 2, 3} Addition modulo 4
+{0, 1, 2, 3} Multiplication modulo 4
+2 A student is trying to find the solution to the travelling salesperson problem for
+a network.
+
+They correctly find two lower bounds for the solution: 15 and 19
+
+They also correctly find two upper bounds for the solution: 48 and 51
+
+Based on the above information only, which of the following pairs give the best lower
+bound and best upper bound for the solution of this problem?
+
+Tick () one box.
+[1 mark]
+
+Best Lower Bound Best Upper Bound
+15 48
+15 51
+19 48
+19 51
+3
+Do not write
+outside the
+box
+(03)
+Turn over (^) U
+3 The simple-connected graph G has the adjacency matrix
+
+A B C D
+A 0 1 1 1
+B 1 0 1 0
+C 1 1 0 1
+D 1 0 1 0
+Which one of the following statements about G is true?
+
+Tick () one box.
+[1 mark]
+
+G is a tree
+
+G is complete
+
+G is Eulerian
+
+G is planar
+
+Turn over for the next question
+4
+Do not write
+outside the
+box
+(04)
+4 Daniel and Jackson play a zero-sum game.
+
+The game is represented by the following pay-off matrix for Daniel.
+
+Jackson
+Strategy W X Y Z
+Daniel
+A 3 – 2 1 4
+B 5 1 – 4 1
+C (^2) – 1 1 2
+
+D – 3 0 2 –
+Neither player has any strategies which can be ignored due to dominance.
+
+4 (a) Prove that the game does not have a stable solution.
+
+Fully justify your answer.
+[3 marks]
+
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+5
+Do not write
+outside the
+box
+(05)
+Turn over (^) U
+4 (b) Determine the play-safe strategy for each player.
+[1 mark]
+Play-safe strategy for Daniel __________________________________________________________
+Play-safe strategy for Jackson _________________________________________________________
+Turn over for the next question
+
+6
+Do not write
+outside the
+box
+(06)
+5 The owners of a sports stadium want to install electric car charging points in each of the
+stadium’s nine car parks.
+
+An engineer creates a plan which requires installing electrical connections so that
+each car park is connected, directly or indirectly, to the stadium’s main electricity
+power supply.
+
+The engineer produces the network shown below, where the nodes represent the
+stadium’s main electricity power supply X and the nine car parks A, B, ..., I
+
+100 150
+135 135
+125
+65
+165
+75
+75
+95 105 95
+105
+45
+145
+100 145
+115 125
+I
+E
+F
+G
+H
+A
+B
+X
+C
+D
+Each arc represents a possible electrical connection which could be installed.
+
+The weight on each arc represents the time, in hours, it would take to install the
+electrical connection. The electrical connections can only be installed one at a time.
+
+To reduce disruption, the owners of the sports stadium want the required electrical
+connections to be installed in the minimum possible total time.
+
+7
+Do not write
+outside the
+box
+(07)
+Turn over (^) U
+5 (a) (i) Determine the electrical connections that should be installed.
+[2 marks]
+
+5 (a) (ii) Find the minimum possible total time needed to install the required electrical
+connections.
+[1 mark]
+
+5 (b) Following the installation of the electrical connections, some of the car parks have an
+indirect connection to the stadium’s main electricity power supply.
+Give one limitation of this installation.
+[1 mark]
+
+8
+Do not write
+outside the
+box
+(08)
+6 A company delivers parcels to houses in a village, using a van.
+
+The network below shows the roads in the village. Each node represents a road
+junction and the weight of each arc represents the length, in miles, of the road between
+the junctions.
+
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.0 1.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+I
+JK
+L
+P
+O
+N
+M
+E
+F
+G
+H
+A
+B C
+D
+1.
+1.
+1.
+1.1 1.
+1.
+The total length of all of the roads in the village is 31.4 miles.
+
+On one particular day, the driver is due to make deliveries to at least one house
+on each road, so the van must travel along each road at least once. However, the
+driver has forgotten to add fuel to the van and it only has 4.5 litres of fuel to use to
+make its deliveries.
+
+The van uses, on average, 1 litre of fuel to travel 7.8 miles along the roads of
+this village. Whilst making each delivery, the driver turns off the van’s engine so it does
+not use any fuel.
+
+Determine whether the van has enough fuel for the driver to make all of the deliveries
+to houses on each road of the village, starting and finishing at the same junction.
+
+Fully justify your answer.
+[6 marks]
+
+9
+Do not write
+outside the
+box
+(09)
+Turn over (^) U
+
+10
+Do not write
+outside the
+box
+(10)
+7 (a) By considering associativity, show that the set of integers does not form a group under
+the binary operation of subtraction.
+
+Fully justify your answer.
+[2 marks]
+
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+7 (b) The group G is formed by the set
+
+{1, 7, 8, 11, 12, 18}
+under the operation of multiplication modulo 19
+
+7 (b) (i) Complete the Cayley table for G
+[3 marks]
+
+× 19 1 7 8 11 12 18
+1 1 7 8 11 12 18
+7 7 11
+8 8 7
+11 11 7
+12 12 11
+18 18 1
+7 (b) (ii) State the inverse of 11 in G
+[1 mark]
+
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+11
+Do not write
+outside the
+box
+Turn over (^) U
+
+(11)
+7 (c) (i) State, with a reason, the possible orders of the proper subgroups of G
+[2 marks]
+
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+7 (c) (ii) Find all the proper subgroups of G
+
+Give your answers in the form (<>, × 19 ) where g ∈ G
+[3 marks]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+7 (c) (iii) The group H is such that G ≅ H
+State a possible name for H
+[1 mark]
+
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+12
+Do not write
+outside the
+box
+(12)
+8 Figure 1 shows a network of water pipes.
+
+The number on each arc represents the upper capacity for each pipe in litres
+per second.
+
+The numbers in the circles represent an initial feasible flow of 103 litres per second.
+
+Figure 1
+B
+D
+F
+E
+A
+C
+G
+17
+25
+29
+24
+26
+10
+8
+27
+28
+35
+31
+18
+35
+36
+36
+30
+16
+29
+39
+29
+33
+19
+8 (a) On Figure 1 above, add a supersource S and a supersink T to the network.
+[2 marks]
+
+8 (b) Using flow augmentation, find the maximum flow through the network.
+
+You must indicate any flow augmenting paths clearly in the table below.
+
+You may use Figure 2 , on the opposite page, in your solution.
+[4 marks]
+
+Augmenting Path Extra Flow
+.
+Maximum Flow _________________ litres per second
+
+13
+Do not write
+outside the
+box
+Turn over (^) U
+
+(13)
+Figure 2
+B
+D
+F
+E
+A
+C
+G
+8 (c) While the flow through the network is at its maximum value, the pipe EG develops
+a leak.
+To repair the leak, an engineer turns off the flow of water through EG
+The engineer claims that the maximum flow of water through the network will reduce
+by 31 litres per second.
+Comment on the validity of the engineer’s claim.
+[2 marks]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+14
+Do not write
+outside the
+box
+(14)
+9 Janet and Samantha play a zero-sum game.
+
+The game is represented by the following pay-off matrix for Janet.
+
+Samantha
+Strategy S 1 S 2 S 3
+Janet
+J 1 2 7 6
+J 2 5 5 1
+J 3 4 3 8
+J 4 1 6 4
+9 (a) Explain why Janet should never play strategy J 4
+[1 mark]
+
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+9 (b) Janet wants to maximise her winnings from the game.
+
+She defines the following variables.
+
+p 1 = the probability of Janet playing strategy J 1
+p 2 = the probability of Janet playing strategy J 2
+p 3 = the probability of Janet playing strategy J 3
+v = the value of the game for Janet
+Janet then formulates her situation as the following linear programming problem.
+
+Maximise P = v
+subject to 2 p 1 + 5 p 2 + 4 p 3 ≥ v
+7 p 1 + 5 p 2 + 3 p 3 ≥ v
+6 p 1 + p 2 + 8 p 3 ≥ v
+and p 1 + p 2 + p 3 ≤ 1
+p 1 , p 2 , p 3 ≥ 0
+15
+Do not write
+outside the
+box
+Turn over (^) U
+
+(15)
+9 (b) (i) Complete the initial Simplex tableau for Janet’s situation in the grid below.
+[2 marks]
+
+P v p 1 p 2 p 3 value
+9 (b) (ii) Hence, perform one iteration of the Simplex algorithm, showing your answer
+on the grid below.
+[2 marks]
+
+P v p 1 p 2 p 3 value
+Question 9 continues on the next page
+16
+Do not write
+outside the
+box
+(16)
+9 (c) Further iterations of the Simplex algorithm are performed until an optimal solution
+is reached.
+
+The grid below shows part of the final Simplex tableau.
+
+p 1 p 2 value
+1 0 1
+12
+0 1
+1
+2
+Find the probability of Janet playing strategy J 3 when she is playing to maximise her
+winnings from the game.
+[1 mark]
+
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+Turn over (^) U
+
+17
+Do not write
+outside the
+box
+(17)
+Turn over for the next question
+DO NOT WRITE ON THIS PAGE
+ANSWER IN THE SPACES PROVIDED
+18
+Do not write
+outside the
+box
+(18)
+10 A project is undertaken by Higton Engineering Ltd.
+
+The project is broken down into 11 separate activities A, B, ..., K
+
+Figure 3 below shows a completed activity network for the project, along with the
+earliest start time, duration, latest finish time and the number of workers required for
+each activity. All times and durations are given in days.
+
+Figure 3
+B
+01010
+2
+Duration
+Latest finish time
+Earliest start time
+Number
+of workers
+required
+D
+10 14 24
+3
+A
+0810
+3
+C
+0812
+1
+E
+10 10 22
+2
+G
+24 16 40
+1
+I
+40 12 54
+1
+F
+24 16 42
+3
+K
+54 660
+4
+H
+20 18 40
+2
+J
+40 14 54
+3
+10 (a) Write down the critical path.
+[1 mark]
+
+_____________________________________________________________________________________
+19
+Do not write
+outside the
+box
+(19)
+10 (b) Using Figure 4 below, draw a resource histogram for the project to show how the
+project can be completed in the minimum possible time.
+
+Assume that each activity is to start as early as possible.
+[3 marks]
+
+Figure 4
+0 20 30 40
+1
+0
+2
+3
+10
+Days
+Number of workers
+50 60 70 80 90 100
+4
+5
+6
+7
+8
+10 (c) Higton Engineering Ltd only has four workers available to work on the project.
+
+Find the minimum completion time for the project.
+
+Use Figure 5 below in your answer.
+[3 marks]
+
+Figure 5
+0 20 30 40
+1
+0
+2
+3
+10
+Days
+50 60 70 80 90 100
+4
+Number of workers
+Minimum completion time ______________________________________________
+END OF QUESTIONS
+20
+Do not write
+outside the
+box
+(20)
+There are no questions printed on this page
+DO NOT WRITE ON THIS PAGE
+ANSWER IN THE SPACES PROVIDED
+21
+Do not write
+outside the
+box
+(21)
+22
+Do not write
+outside the
+box
+(22)
+23
+Do not write
+outside the
+box
+(23)
+24
+Do not write
+outside the
+box
+(24)
+There are no questions printed on this page
+DO NOT WRITE ON THIS PAGE
+ANSWER IN THE SPACES PROVIDED
+(246A7367/3D)
+Copyright information
+For confidentiality purposes, all acknowledgements of third-party copyright material are published in a separate booklet. This booklet is published after
+each live examination series and is available for free download from http://www.aqa.org.uk.
+Permission to reproduce all copyright material has been applied for. In some cases, efforts to contact copyright-holders may have been unsuccessful and
+AQA will be happy to rectify any omissions of acknowledgements. If you have any queries please contact the Copyright Team.
+Copyright © 2024 AQA and its licensors. All rights reserved.
+
+Mark Scheme:
+
+  A-level
+FURTHER MATHEMATICS
+7367/3D
+Paper 3 Discrete
+(^) Mark scheme
+
+June 2024
+(^) Version: 1.0 Final
+
+246A7367/3D/MS
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3D – JUNE 2024
+Mark schemes are prepared by the Lead Assessment Writer and considered, together with the
+relevant questions, by a panel of subject teachers. This mark scheme includes any amendments
+made at the standardisation events which all associates participate in and is the scheme which
+was used by them in this examination. The standardisation process ensures that the mark scheme
+covers the students’ responses to questions and that every associate understands and applies it in
+the same correct way. As preparation for standardisation each associate analyses a number of
+students’ scripts. Alternative answers not already covered by the mark scheme are discussed and
+legislated for. If, after the standardisation process, associates encounter unusual answers which
+have not been raised they are required to refer these to the Lead Examiner.
+It must be stressed that a mark scheme is a working document, in many cases further developed
+and expanded on the basis of students’ reactions to a particular paper. Assumptions about future
+mark schemes on the basis of one year’s document should be avoided; whilst the guiding
+principles of assessment remain constant, details will change, depending on the content of a
+particular examination paper.
+No student should be disadvantaged on the basis of their gender identity and/or how they refer to
+the gender identity of others in their exam responses.
+A consistent use of ‘they/them’ as a singular and pronouns beyond ‘she/her’ or ‘he/him’ will be
+credited in exam responses in line with existing mark scheme criteria.
+Further copies of this mark scheme are available from aqa.org.uk
+Copyright information
+AQA retains the copyright on all its publications. However, registered schools/colleges for AQA are permitted to copy material from this booklet for their own
+internal use, with the following important exception: AQA cannot give permission to schools/colleges to photocopy any material that is acknowledged to a third
+party even for internal use within the centre.
+Copyright © 2024 AQA and its licensors. All rights reserved.
+
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3D – JUNE 2024
+Mark scheme instructions to examiners
+General
+The mark scheme for each question shows:
+
+the marks available for each part of the question
+the total marks available for the question
+marking instructions that indicate when marks should be awarded or withheld including the
+principle on which each mark is awarded. Information is included to help the examiner make his
+or her judgement and to delineate what is creditworthy from that not worthy of credit
+a typical solution. This response is one we expect to see frequently. However credit must be
+given on the basis of the marking instructions.
+If a student uses a method which is not explicitly covered by the marking instructions the same
+principles of marking should be applied. Credit should be given to any valid methods. Examiners
+should seek advice from their senior examiner if in any doubt.
+
+Key to mark types
+M mark is for method
+R mark is for reasoning
+A mark is dependent on M marks and is for accuracy
+B mark is independent of M marks and is for method and accuracy
+E mark is for explanation
+F follow through from previous incorrect result
+Key to mark scheme abbreviations
+CAO correct answer only^
+CSO correct solution only^
+ft follow through from previous incorrect result
+‘their’ indicates that credit can be given from previous incorrect result
+AWFW anything which falls within
+AWRT anything which rounds to
+ACF any correct form
+AG answer given^
+SC special case
+OE or equivalent
+NMS no method shown
+PI possibly implied
+sf significant figure(s)
+dp decimal place(s)
+ISW Ignore Subsequent Workings^
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3D – JUNE 2024
+Examiners should consistently apply the following general marking principles:
+
+No Method Shown
+
+Where the question specifically requires a particular method to be used, we must usually see
+evidence of use of this method for any marks to be awarded.
+
+Where the answer can be reasonably obtained without showing working and it is very unlikely that
+the correct answer can be obtained by using an incorrect method, we must award full marks.
+However, the obvious penalty to candidates showing no working is that incorrect answers, however
+close, earn no marks.
+
+Where a question asks the candidate to state or write down a result, no method need be shown for
+full marks.
+
+Where the permitted calculator has functions which reasonably allow the solution of the question
+directly, the correct answer without working earns full marks, unless it is given to less than the
+degree of accuracy accepted in the mark scheme, when it gains no marks.
+
+Otherwise we require evidence of a correct method for any marks to be awarded.
+
+Diagrams
+
+Diagrams that have working on them should be treated like normal responses. If a diagram has
+been written on but the correct response is within the answer space, the work within the answer
+space should be marked. Working on diagrams that contradicts work within the answer space is
+not to be considered as choice but as working, and is not, therefore, penalised.
+
+Work erased or crossed out
+
+Erased or crossed out work that is still legible and has not been replaced should be marked.
+Erased or crossed out work that has been replaced can be ignored.
+
+Choice
+
+When a choice of answers and/or methods is given and the student has not clearly indicated which
+answer they want to be marked, mark positively, awarding marks for all of the student’s best
+attempts. Withhold marks for final accuracy and conclusions if there are conflicting complete
+answers or when an incorrect solution (or part thereof) is referred to in the final answer.
+
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3D – JUNE 2024
+AS/A-level Maths/Further Maths assessment objectives
+AO Description
+AO
+AO1.1a Select routine procedures
+AO1.1b Correctly carry out routine procedures
+AO1.2 Accurately recall facts, terminology and definitions
+AO
+AO2.1 Construct rigorous mathematical arguments (including proofs)
+AO2.2a Make deductions
+AO2.2b Make inferences
+AO2.3 Assess the validity of mathematical arguments
+AO2.4 Explain their reasoning
+AO2.5 Use mathematical language and notation correctly
+AO
+AO3.1a Translate problems in mathematical contexts into mathematical processes
+AO3.1b Translate problems in non-mathematical contexts into mathematical processes
+AO3.2a Interpret solutions to problems in their original context
+AO3.2b Where appropriate, evaluate the accuracy and limitations of solutions to problems
+AO3.3 Translate situations in context into mathematical models
+AO3.4 Use mathematical models
+AO3.5a Evaluate the outcomes of modelling in context
+AO3.5b Recognise the limitations of models
+AO3.5c Where appropriate, explain how to refine models
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3D – JUNE 2024
+Q Marking instructions AO Marks Typical solution
+
+1 Ticks 3rd box 1.1b B1 {0, 1, 2, 3} Addition modulo 4
+Question total 1
+Q Marking instructions AO Marks Typical solution
+
+2 Ticks 3 rd box 1.1b B1 19, 48
+Question total 1
+Q Marking instructions AO Marks Typical solution
+
+3 Ticks 4th box 1.1b B1 G is planar
+Question total 1
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3D – JUNE 2024
+Q Marking instructions AO Marks Typical solution
+4 (a) Identifies the four correct row
+minima or four correct column
+maxima
+
+3.1a M
+row minima: – 2 , – 4 , –1, – 3
+column maxima: 5 , 1, 2, 4
+max(row minima) = – 1
+min(column maxima) = 1
+As
+max(row minima) = – 1 ≠ 1
+= min(col maxima),
+therefore, a stable solution does
+not exist.
+(^) States max(row minima) = – 1
+
+and min(column maxima) = 1
+1.1b A
+Completes a reasoned
+argument to show that the
+max(row minima) and
+min(column maxima) are not
+equal and concludes that a
+stable solution does not exist
+3.2a R 1
+Subtotal 3
+Q Marking instructions AO Marks Typical solution
+(^)
+4(b) Deduces C for Daniel
+and X for Jackson 2.2a^ B^
+
+Play-safe strategy for Daniel = C
+Play-safe strategy for Jackson = X
+Subtotal 1
+Question total 4
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3D – JUNE 2024
+Q Marking instructions AO Marks Typical solution
+5(a)(i) Sets up a model of finding a
+minimum spanning tree with 9
+arcs and at least 5 arcs correct
+3.3 M
+X–A: 100
+A–D: 75
+D–G: 95
+G–H: 75
+D–E: 100
+B–E: 65
+E–I: 95
+F–I: 45
+C–E: 125
+Finds the correct minimum
+spanning tree
+3.4 A
+Subtotal 2
+Q Marking instructions AO Marks Typical solution
+5(a)(ii)
+Obtains 775 hours
+FT their minimum spanning tree
+
+3.2a B1F
+100 + 75 + 95 + 75 + 100 + 65
++ 95 + 45 + 125
+= 775 hours
+Subtotal 1
+Q Marking instructions AO Marks Typical solution
+5(b) Recognises a valid limitation of
+the model in the context of the
+question related to the
+connectedness of the network
+3.5b E 1
+If an electrical connection fails, it
+may result in more than one car
+park being unable to charge
+electric cars.
+Subtotal 1
+Question total 4
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3D – JUNE 2024
+Q Marking instructions AO Marks Typical solution
+
+6 Sets up a model by identifying
+the problem as a route
+inspection problem and noting
+that A, G, J and O are
+odd-degree nodes (PI)
+3.3 M
+Odd degree nodes: A, G, J, O
+Shortest Distances
+A–G: 2.7 J–O: 2.
+A–J: 2.4 G–O: 2.
+A–O: 3.9 J–G: 2.
+Pairings
+(A–G)(J–O) = 4.7*
+(A–J)(G–O) = 4.
+(A–O)(J–G) = 6.
+Minimum total distance the van
+must travel is 31.4 + 4.7 = 36.
+miles
+The minimum amount of fuel the
+van requires is
+36.
+7.
+= 4.63 litres
+Therefore, the van will require
+more than 4.5 litres of fuel and so
+does not have enough fuel to make
+all of its deliveries and arrive back
+at the junction it started from.
+Uses the model to find at least
+one correct total for a pair of
+shortest distances
+3.4 M
+Finds all three correct totals for
+the pairs of shortest distances
+1.1b A
+Determines their correct
+minimum total distance that the
+van needs cover during the
+journey
+or
+Determines that the maximum
+distance the van can travel with
+4 .5 litres of fuel is 35.1 miles
+1.1b B 1 F
+Determines the minimum
+amount of fuel that would be
+required
+or
+Makes a comparison of their
+route with 35.1 miles
+1.1b B1F
+Uses the model to correctly
+conclude that the van does not
+have enough fuel to make all of
+its deliveries and arrive back at
+the junction it started from
+3.5a E 1 F
+Question total 6
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3D – JUNE 2024
+Q Marking instructions AO Marks Typical solution
+7 (a) Sets up test for associativity by
+considering combinations of the
+form (x – y) – z and x – (y – z),
+where x, y, z , and simplifies
+one combination
+1 .1a M
+(3 – 2) – 1 = 0
+3 – (2 – 1) = 2
+As (3 – 2) – 1 ≠ 3 – (2 – 1), the set
+of integers does not possess the
+associativity property.
+The associativity property is
+required for all groups, therefore
+the set of integers does not form a
+group under subtraction.
+Completes a reasoned
+argument by showing a full
+counterexample to associativity
+(either algebraic or numerical)
+and concludes that the set of
+integers does not form a group
+under subtraction
+2.1 R 1
+Subtotal 2
+Q Marking instructions AO Marks Typical solution
+7 (b)(i) Obtains at least one fully correct
+row or at least one fully correct
+column of the Cayley table
+
+1.1a M
+See below
+Obtains at least three fully
+correct rows or at least three
+fully correct columns of the
+Cayley table
+1.1a M 1
+Completes the Cayley table
+correctly 1.1b^ A^1
+× 19 1 7 8 11 12 18
+1 1 7 8 11 12 18
+7 7 11 18 1 8 12
+8 8 18 7 12 1 11
+11 11 1 12 7 18 8
+12 12 8 1 18 11 7
+18 18 12 11 8 7 1
+Subtotal 3
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3D – JUNE 2024
+Q Marking instructions AO Marks Typical solution
+7(b)(ii) States 7 2.2a B1 7
+Subtotal 1
+Q Marking instructions AO Marks Typical solution
+7(c)(i) States at least two possible
+correct orders for the proper
+subgroups of G
+1.1a M
+By Lagrange’s theorem, the order
+of a subgroup must divide the order
+of the group.
+Hence, the possible orders for the
+proper subgroups of G are 1, 2 & 3
+as these are divisors of 6, the order
+of G
+States the orders of proper
+subgroups of G as 1, 2 & 3 only
+(not 6) and explains that these
+are divisors of 6 and names or
+explains Lagrange’s theorem
+2.4 A
+Subtotal 2
+Q Marking instructions AO Marks Typical solution
+7(c)(ii) Finds at least one correct proper
+subgroup of G
+Condone poor notation or
+answer given in different form
+1 .1a M
+(1,× 19 )^
+(7,× 19 )^
+(18 ,× 19 )
+Finds at least two correct proper
+subgroups of G
+Condone poor notation or
+answer given in different form
+1.1b A
+Finds all three distinct proper
+subgroups of G and no others,
+giving all answers in the correct
+form
+Note (^) (7,× 19 ) and (11 ,× 19 )
+are not distinct
+
+5 A
+Subtotal 3
+Q Marking instructions AO Marks Typical solution
+7(c)(iii) States a correct full name for H 1.2 B1 Cyclic group of order 6
+
+Subtotal 1
+Question total 12
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3D – JUNE 2024
+Q Marking instructions AO Marks Typical solution
+8 (a) Connects supersource S to
+nodes A and B with directed
+arcs and connects supersink T
+to nodes F and G with directed
+arcs
+
+1.1b B 1
+Includes a correct upper
+capacity on each of the four
+correct arcs
+1.1b B 1
+Subtotal 2
+Q Marking instructions AO Marks Typical solution
+8(b) Finds at least one correct
+augmenting path and the extra
+flow (may be seen on diagram).
+Condone S & T not included in
+augmenting path
+
+3.1a M
+Augmenting
+Path
+Extra
+Flow
+SADFT 4
+SBGT 2
+SBCEGT 1
+Maximum flow = 110 litres per
+second
+Finds a second correct
+augmenting path and the extra
+flow.
+Condone S & T not included in
+augmenting path
+1.1b A
+Finds a third correct augmenting
+path and the extra flow, and no
+incorrect paths.
+Total of all extra flows must be 7
+Condone S & T not included in
+augmenting path
+1.1b A
+Obtains 110 2 .2a B
+Subtotal 4
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3D – JUNE 2024
+Q Marking instructions AO Marks Typical solution
+8 (c) Explains that EG is saturated/at
+maximum flow before the leak 2.4^ E^
+
+EG is saturated, and none of the
+flow through EG can be re-routed
+as each of BG, DG and DF are
+also saturated.
+Hence, the maximum flow through
+the network decreases by 31 litres
+per second and so the engineer’s
+claim is correct.
+Explains that the flow of 31 litres
+per second through EG cannot
+be re-routed as BG, DG & DF
+are also all saturated or that EG
+is part of the minimum cut of the
+network and then concludes that
+the engineer’s claim is correct
+3 R
+Subtotal 2
+Question total 8
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3D – JUNE 2024
+Q Marking instructions AO Marks Typical solution
+9 (a) Explains that J 4 is dominated
+by J 1 OE^ 2.4^ B^
+As 1 ≤ 2, 6 ≤ 7 and 4 ≤ 6, strategy
+J 1 dominates strategy J 4
+Subtotal 1
+Q Marking instructions AO Marks Typical solution
+9 (b)(i) Introduces four slack variables
+in the column headings and
+finds at least two correct rows
+
+3.1a M 1
+See below
+Finds all rows correctly 1.1b A 1
+P v P 1 P 2 P 3 r s t u value
+1 – 1 0 0 0 0 0 0 0 0
+0 1 – 2 – 5 – 4 1 0 0 0 0
+0 1 – 7 – 5 – 3 0 1 0 0 0
+0 1 – 6 – 1 – 8 0 0 1 0 0
+0 0 1 1 1 0 0 0 1 1
+Subtotal 2
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3D – JUNE 2024
+Q Marking instructions AO Marks Typical solution
+9 (b)(ii) Uses the simplex algorithm to
+modify at least one non-pivot
+row correctly
+
+3.1a M 1
+See below
+Uses the simplex algorithm to
+find all rows correctly
+1.1b A 1
+P v P 1 P 2 P 3 r s t u value
+1 0 – 2 – 5 – 4 1 0 0 0 0
+0 1 – 2 – 5 – 4 1 0 0 0 0
+0 0 – 5 0 1 – 1 1 0 0 0
+0 0 – 4 4 – 4 – 1 0 1 0 0
+0 0 1 1 1 0 0 0 1 1
+Subtotal 2
+Q Marking instructions AO Marks Typical solution
+9 (c)
+Obtains
+5
+12
+2.2a B
+5
+12
+Subtotal 1
+Question total 6
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3D – JUNE 2024
+Q Marking instructions AO Marks Typical solution
+10 (a) States BDGJK and no others 1.1b B1 BDGJK
+
+Subtotal 1
+Q Marking instructions AO Marks Typical solution
+10 (b) Draws a resource histogram with at
+least 10 labelled activities 3.1b^ M^
+
+See next page
+Draws a resource histogram with
+activities A, B, C, D & E drawn
+correctly
+1.1b A
+Draws a fully correct resource
+histogram
+1.1b A 1
+Subtotal 3
+Q Marking instructions AO Marks Typical solution
+10 (c) Shows that activities A, B and C
+cannot be carried out simultaneously
+on histogram
+
+3 .1b M
+See next page
+96 days
+Draws a fully correct, labelled and
+levelled resource histogram 1.1b^ A^
+Obtains 96 days
+Condone missing units 3.2a^ A^1
+Subtotal 3
+Question total 7
+Question Paper total 50
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3D – JUNE 2024
+10(b)
+
+10(c)
