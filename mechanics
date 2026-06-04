@@ -1,0 +1,975 @@
+G/LM/Jun24/G4006/V7 7367/3M
+(JUN2473673M01)
+A-level
+FURTHER MATHEMATICS
+Paper 3 Mechanics
+Friday 7 June 2024 Afternoon Time allowed: 2 hours
+Materials
+l You must have the AQA Formulae and statistical tables booklet for
+A‑level Mathematics and A‑level Further Mathematics.
+l You should have a graphical or scientific calculator that meets the
+requirements of the specification.
+l You must ensure you have the other optional Question Paper/Answer Book
+for which you are entered (either Discrete or Statistics). You will have
+2 hours to complete both papers.
+Instructions
+l Use black ink or black ball‑point pen. Pencil should only be used for drawing.
+l Fill in the boxes at the top of this page.
+l Answer all questions.
+l You must answer each question in the space provided for that question.
+If you require extra space for your answer(s), use the lined pages at the end
+of this book. Write the question number against your answer(s).
+l Do not write outside the box around each page or on blank pages.
+l Show all necessary working; otherwise marks for method may be lost.
+l Do all rough work in this book. Cross through any work that you do not want
+to be marked.
+Information
+l The marks for questions are shown in brackets.
+l The maximum mark for this paper is 50.
+Advice
+l Unless stated otherwise, you may quote formulae, without proof, from the booklet.
+l You do not necessarily need to use all the space provided.
+For Examiner’s Use
+Question Mark
+1 2 3 4 5 6 7 8 9
+TOTAL
+Please write clearly in block capitals.
+Centre number Candidate number
+Surname _________________________________________________________________________
+Forename(s) _________________________________________________________________________
+Candidate signature _________________________________________________________________________
+I declare this is my own work.
+2
+Do not write outside the
+box
+Answer all questions in the spaces provided.
+1 A particle moves in a circular path so that at time t seconds its position vector, r metres,
+is given by
+r = 4 sin(2t)i + 4 cos(2t)j
+Find the velocity of the particle, in m s–^1 , when t = 0
+Circle your answer.
+[1 mark]
+8 i –8j 8 j 8 i – 8 j
+2 As a particle moves along a straight horizontal line, it is subjected to a force
+F newtons that acts in the direction of motion of the particle.
+At time t seconds, F = 5 t
+Calculate the magnitude of the impulse on the particle between t = 0 and t = 3
+Circle your answer.
+[1 mark]
+0.3 N s 0.6 N s 0.9 N s 1.8 N s
+3
+Do not write outside the
+box
+Turn over (^) U
+
+3 A conical pendulum consists of a light string and a particle of mass m kg
+The conical pendulum completes horizontal circles with radius r metres and
+angular speed ω radians per second. The string makes an angle θ with the
+downward vertical.
+The tension in the string is T newtons.
+The conical pendulum and the forces acting on the particle are shown in the diagram.
+mg
+T
+θ
+Which one of the following statements is correct?
+Tick () one box.
+[1 mark]
+T cos θ = mrω^2
+T sin θ = mrω^2
+T cos θ = mω
+2
+r^
+T sin θ = mω
+2
+r^
+4
+Do not write outside the
+box
+4 A particle of mass 3 kg is attached to one end of a light inextensible string.
+The other end of the string is attached to a fixed point on a smooth horizontal surface.
+The particle is set into motion so that it moves with a constant speed 4 m s–^1 in a
+circular path with radius 0.8 metres on the horizontal surface.
+4 (a) Find the acceleration of the particle.
+[2 marks]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+4 (b) Find the tension in the string.
+[1 mark]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+4 (c) Show that the angular speed of the particle is 48 revolutions per minute correct to
+two significant figures.
+[2 marks]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+5
+Do not write outside the
+box
+Turn over (^) U
+
+5 When a sphere of radius r metres is falling at v m s–^1 it experiences an air resistance
+force F newtons.
+The force is to be modelled as
+F = kr α v β
+where k is a constant with units kg m–^2
+5 (a) State the dimensions of F
+[1 mark]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+5 (b) Use dimensional analysis to find the value of α and the value of β
+[3 marks]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+Turn over (^) U
+
+6
+Do not write outside the
+box
+6 In this question use g = 9.8 m s–^2
+A light elastic string has natural length 3 metres and modulus of elasticity 18 newtons.
+One end of the elastic string is attached to a particle of mass 0.25 kg
+The other end of the elastic string is attached to a fixed point O
+The particle is released from rest at a point A, which is 4.5 metres vertically below O
+6 (a) Calculate the elastic potential energy of the string when the particle is at A
+[2 marks]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+6 (b) The point B is 3 metres vertically below O
+Calculate the gravitational potential energy gained by the particle as it moves
+from A to B
+[2 marks]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+7
+Do not write outside the
+box
+Turn over (^) U
+
+6 (c) Find the speed of the particle at B
+[3 marks]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+6 (d) The point C is 3.6 metres vertically below O
+Explain, showing any calculations that you make, why the speed of the particle is
+increasing the first time that the particle is at C
+[3 marks]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+8
+Do not write outside the
+box
+7 A sphere, of mass 0.2 kg, moving on a smooth horizontal surface, collides with a
+fixed wall.
+Before the collision the sphere moves with speed 5 m s–^1 at an angle of 60° to
+the wall.
+After the collision the sphere moves with speed v m s–^1 at an angle of θ ° to
+the wall.
+The velocities are shown in the diagram below.
+60°
+5 m s^ –
+v m s^ –
+θ °
+The coefficient of restitution between the wall and the sphere is 0.
+7 (a) Assume that the wall is smooth.
+7 (a) (i) Find the value of v
+Give your answer to two significant figures.
+[4 marks]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+9
+Do not write outside the
+box
+Turn over (^) U
+
+7 (a) (ii) Find the value of θ
+Give your answer to the nearest whole number.
+[2 marks]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+7 (a) (iii) Find the magnitude of the impulse exerted on the sphere by the wall.
+Give your answer to two significant figures.
+[2 marks]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+7 (b) In reality the wall is not smooth.
+Explain how this would cause a change in the magnitude of the impulse calculated in
+part (a)(iii).
+[2 marks]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+10
+Do not write outside the
+box
+8 The finite region enclosed by the line y = kx, the x‑axis and the line x = 5 is rotated
+through 360° around the x axis to form a solid cone.
+8 (a) (i) Use integration to show that the position of the centre of mass of the cone is
+independent of k
+[4 marks]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+8 (a) (ii) State the distance between the base of the cone and its centre of mass.
+[1 mark]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+11
+Do not write outside the
+box
+G/Jun24/7367/3M
+Turn over (^) U
+
+(11)
+8 (b) State one assumption that you have made about the cone.
+[1 mark]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+8 (c) The plane face of the cone is placed on a rough inclined plane.
+The coefficient of friction between the cone and the plane is 0.
+The angle between the plane and the horizontal is gradually increased from 0°
+Find the range of values of k for which the cone slides before it topples.
+[4 marks]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+12
+Do not write outside the
+box
+9 A small sphere, of mass m, is attached to one end of a light inextensible string
+of length a
+The other end of the string is attached to a fixed point O
+The sphere is at rest in equilibrium directly below O when it is struck, giving it a
+horizontal impulse of magnitude mU
+After the impulse, the sphere follows a circular path in a vertical plane containing the
+point O until the string becomes slack at the point C
+At C the string makes an angle of 30° with the upward vertical through O, as shown in
+the diagram below.
+30°
+O
+C
+9 (a) Show that
+U^2 = ag 2 ( 4 + 3 √ 3 )
+where g is the acceleration due to gravity.
+[6 marks]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+13
+Do not write outside the
+box
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+9 (b) With reference to any modelling assumptions that you have made, explain why giving
+your answer as an inequality would be more appropriate, and state this inequality.
+[2 marks]
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+END OF QUESTIONS
+14
+G/Jun24/7367/3M
+Do not write outside the
+box
+(14)
+There are no questions printed on this page
+DO NOT WRITE ON THIS PAGE
+ANSWER IN THE SPACES PROVIDED
+15
+Do not write outside the
+box
+16
+Do not write outside the
+box
+Copyright information
+For confidentiality purposes, all acknowledgements of third‑party copyright material are published in a separate booklet.
+This booklet is published after each live examination series and is available for free download from http://www.aqa.org.uk.
+Permission to reproduce all copyright material has been applied for. In some cases, efforts to contact copyright‑holders may have
+been unsuccessful and AQA will be happy to rectify any omissions of acknowledgements. If you have any queries please contact
+the Copyright Team.
+Copyright © 2024 AQA and its licensors. All rights reserved.
+
+(246A7367/3M)
+Mark Scheme:
+
+A-level
+FURTHER MATHEMATICS
+7367/3M
+Paper 3 Mechanics
+(^) Mark scheme
+June 2024
+(^) Version: 1.0 Final
+246A7367/ 3 m/MS
+
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3M – JUNE 2024
+Mark schemes are prepared by the Lead Assessment Writer and considered, together with the
+relevant questions, by a panel of subject teachers. This mark scheme includes any amendments
+made at the standardisation events which all associates participate in and is the scheme which
+was used by them in this examination. The standardisation process ensures that the mark scheme
+covers the students’ responses to questions and that every associate understands and applies it in
+the same correct way. As preparation for standardisation each associate analyses a number of
+students’ scripts. Alternative answers not already covered by the mark scheme are discussed and
+legislated for. If, after the standardisation process, associates encounter unusual answers which
+have not been raised they are required to refer these to the Lead Examiner.
+It must be stressed that a mark scheme is a working document, in many cases further developed
+and expanded on the basis of students’ reactions to a particular paper. Assumptions about future
+mark schemes on the basis of one year’s document should be avoided; whilst the guiding
+principles of assessment remain constant, details will change, depending on the content of a
+particular examination paper.
+No student should be disadvantaged on the basis of their gender identity and/or how they refer to
+the gender identity of others in their exam responses.
+A consistent use of ‘they/them’ as a singular and pronouns beyond ‘she/her’ or ‘he/him’ will be
+credited in exam responses in line with existing mark scheme criteria.
+Further copies of this mark scheme are available from aqa.org.uk
+Copyright information
+AQA retains the copyright on all its publications. However, registered schools/colleges for AQA are permitted to copy material from this booklet for their own
+internal use, with the following important exception: AQA cannot give permission to schools/colleges to photocopy any material that is acknowledged to a third
+party even for internal use within the centre.
+Copyright © 2024 AQA and its licensors. All rights reserved.
+
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3M – JUNE 2024
+Mark scheme instructions to examiners
+General
+
+The mark scheme for each question shows:
+
+the marks available for each part of the question
+the total marks available for the question
+marking instructions that indicate when marks should be awarded or withheld including the
+principle on which each mark is awarded. Information is included to help the examiner make his
+or her judgement and to delineate what is creditworthy from that not worthy of credit
+a typical solution. This response is one we expect to see frequently. However credit must be
+given on the basis of the marking instructions.
+If a student uses a method which is not explicitly covered by the marking instructions the same
+principles of marking should be applied. Credit should be given to any valid methods. Examiners
+should seek advice from their senior examiner if in any doubt.
+
+Key to mark types
+M mark is for method
+R mark is for reasoning
+A mark is dependent on M marks and is for accuracy
+B mark is independent of M marks and is for method and accuracy
+E mark is for explanation
+F follow through from previous incorrect result
+Key to mark scheme abbreviations
+CAO correct answer only
+CSO correct solution only
+ft follow through from previous incorrect result
+‘their’ indicates that credit can be given from previous incorrect result
+AWFW anything which falls within
+AWRT anything which rounds to
+ACF any correct form
+AG answer given
+SC special case
+OE or equivalent
+NMS no method shown
+PI possibly implied
+sf significant figure(s)
+dp decimal place(s)
+ISW Ignore Subsequent Workings
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3M – JUNE 2024
+Examiners should consistently apply the following general marking principles:
+
+No Method Shown
+
+Where the question specifically requires a particular method to be used, we must usually see
+evidence of use of this method for any marks to be awarded.
+
+Where the answer can be reasonably obtained without showing working and it is very unlikely that
+the correct answer can be obtained by using an incorrect method, we must award full marks.
+However, the obvious penalty to candidates showing no working is that incorrect answers, however
+close, earn no marks.
+
+Where a question asks the candidate to state or write down a result, no method need be shown for
+full marks.
+
+Where the permitted calculator has functions which reasonably allow the solution of the question
+directly, the correct answer without working earns full marks, unless it is given to less than the
+degree of accuracy accepted in the mark scheme, when it gains no marks.
+
+Otherwise we require evidence of a correct method for any marks to be awarded.
+
+Diagrams
+
+Diagrams that have working on them should be treated like normal responses. If a diagram has
+been written on but the correct response is within the answer space, the work within the answer
+space should be marked. Working on diagrams that contradicts work within the answer space is
+not to be considered as choice but as working, and is not, therefore, penalised.
+
+Work erased or crossed out
+
+Erased or crossed out work that is still legible and has not been replaced should be marked.
+Erased or crossed out work that has been replaced can be ignored.
+
+Choice
+
+When a choice of answers and/or methods is given and the student has not clearly indicated which
+answer they want to be marked, mark positively, awarding marks for all of the student’s best
+attempts. Withhold marks for final accuracy and conclusions if there are conflicting complete
+answers or when an incorrect solution (or part thereof) is referred to in the final answer.
+
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3M – JUNE 2024
+AS/A-level Maths/Further Maths assessment objectives
+
+AO Description
+AO
+AO1.1a Select routine procedures
+AO1.1b Correctly carry out routine procedures
+AO1.2 Accurately recall facts, terminology and definitions
+AO
+AO2.1 Construct rigorous mathematical arguments (including proofs)
+AO2.2a Make deductions
+AO2.2b Make inferences
+AO2.3 Assess the validity of mathematical arguments
+AO2.4 Explain their reasoning
+AO2.5 Use mathematical language and notation correctly
+AO
+AO3.1a Translate problems in mathematical contexts into mathematical processes
+AO3.1b Translate problems in non-mathematical contexts into mathematical processes
+AO3.2a Interpret solutions to problems in their original context
+AO3.2b Where appropriate, evaluate the accuracy and limitations of solutions to problems
+AO3.3 Translate situations in context into mathematical models
+AO3.4 Use mathematical models
+AO3.5a Evaluate the outcomes of modelling in context
+AO3.5b Recognise the limitations of models
+AO3.5c Where appropriate, explain how to refine models
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3M – JUNE 2024
+Q Marking Instructions AO Marks Typical Solution
+1 Circles^1 st^ answer^ 2.2a B1 8 i
+Question total 1
+Q Marking Instructions AO Marks Typical Solution
+2 Circles 3 rd answer 1.1b B1 0.9 N s
+Question total 1
+Q Marking Instructions AO Marks Typical Solution
+3 Ticks^2 nd^ box^ 2.2a B1 T sin θ = mrω^2
+Question total 1
+Q Marking Instructions AO Marks Typical Solution
+4(a) States or uses the formula for the
+acceleration under circular motion.
+
+1.1a M1 (^) –
+a ==
+2
+(^4) 20 m s 2
+
+PI by correct answer.
+Obtains 20 1.1b A
+(^) Condone missing units.
+(^) Subtotal 2
+Q Marking Instructions AO Marks Typical Solution
+4(b) Obtains 60
+Follow through their acceleration 1.1b^ B1F^
+T = 3 × 20
+= 60 N
+(^) Condone missing units.
+Subtotal 1
+Q Marking Instructions AO Marks Typical Solution
+(^)
+4(c) Selects and uses a method to find
+the angular speed for example
+seeing 5 (rad s-^1 ) 0.79 (revs per
+second) or 300 (rad per minute).
+1.1a M1 (^) ×
+=
+π×
+=
+4 60
+47.746....
+2 0.
+48 rpm
+Completes a reasoned argument to
+obtain 48.
+Condone missing units.
+
+1 R 1
+(^) AG
+(^) Subtotal 2
+(^) Question total 5
+
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3M – JUNE 2024
+Q Marking Instructions AO Marks Typical Solution
+5(a) States MLT–^2 1.2 B1 MLT–^2
+
+Subtotal 1
+Q Marking Instructions AO Marks Typical Solution
+5(b) Uses dimensional analysis notation
+to form an equation.
+
+3.3 M (^1) [ F ] = [ k ][ r ] α [ v ] β
+MLT–^2 = ML–^2 × Lα × LβT–β
+1 = – 2 + α + β
+α + β = 3
+
+2 = – β
+β = 2
+α = 1
+Must not use units.
+Obtains either α = 1 or β = 2
+Condone use of units.
+1.1a M
+Completes a reasoned argument
+using dimensions to show that
+α = 1 and β = 2
+2.2a R 1
+Subtotal 3
+(^) Question total 4
+
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3M – JUNE 2024
+Q Marking Instructions AO Marks Typical Solution
+(^)
+6(a) Uses the EPE formula with their
+extension.
+1.1a M1 (^) ×
+==
+×
+18 1.5^2
+EPE 6.75 J
+23
+Obtains 6.75 or 6.
+Condone missing units.
+1.1b A
+(^) Subtotal 2
+Q Marking Instructions AO Marks Typical Solution
+6(b) Uses GPE formula with their AB 1.1a M1 (^) GPE = 0.25 × 9.8 × 1.
+= 3.675 J
+= 3 .7 J (to 2sf)
+Obtains AWRT 3.
+Condone missing units.
+1.1b A
+(^) Subtotal 2
+Q Marking Instructions AO Marks Typical Solution
+(^)
+6(c) Forms a three-term energy
+equation using their EPE and GPE.
+Condone sign errors.
+3.3 M 1 6.75 –^ 3.675^ =^
+1
+2
+× 0.25 v^2
+v^2 = 24.
+v = 5.0 m s–^1
+Forms a correct equation using
+their energies. 1.1b^ A1F^
+Obtains 5 or 5.
+Must include units. 3.2b^ A^1
+(^) Subtotal 3
+
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3M – JUNE 2024
+Q Marking Instructions AO Marks Typical Solution
+6(d) Obtains 3.6 for tension at C 1.1a B1 (^) ×
+T ==
+18 0.
+3.6 N
+3
+Resultant force = T – mg
+= 3.6 – 0.25 × 9.
+= 1 .15 N
+Resultant force is upwards and the
+particle is moving upwards, so
+speed is increasing.
+Finds the resultant force or
+acceleration of the particle at C or
+compares the value of mg with the
+tension.
+3.3 M 1
+Explains that this force is upwards
+and so the speed is increasing or
+an explanation that is consistent
+with their calculations.
+
+4 R
+(^) Subtotal 3
+Question total 10
+
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3M – JUNE 2024
+Q Marking Instructions AO Marks Typical Solution
+7 (a)(i) Forms two expressions for motion
+by resolving parallel and
+perpendicular to the wall.
+3.3 M (^1) 5cos 60° = v cos θ
+0.7 × 5sin 60° = v sin θ
+=+
+=
+v (5cos 60 ) (3.5sin 60 )^22
+
+Obtains two correct expressions. 1.1b A 1
+Eliminates θ to find a value for v 1.1a^ M^1
+Obtains AWRT 3.9 1.1b A
+(^) Subtotal 4
+Q Marking Instructions AO Marks Typical Solution
+7(a)(ii) (^) Uses their value for v or eliminates
+v to find an expression for tan θ ,
+sin θ or cos θ
+3.4 M
+=
+=
+θ
+θ
+
+
+3.5sin 60
+tan
+5cos
+50
+Obtains AWRT 50 1.1b A
+(^) Subtotal 2
+Q Marking Instructions AO Marks Typical Solution
+7(a)(iii) Uses the impulse equation with
+components of velocities
+perpendicular to the wall with
+opposite signs.
+3.4 M1 (^) I = 0.2 × 3.929sin 50.48°
+
+(–0.2 × 5sin 60°)
+= 1.5 Ns
+Obtains AWRT 1.5.
+Must be positive.
+1.1b A
+(^) Condone missing/incorrect units.
+(^) Subtotal 2
+
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3M – JUNE 2024
+Q Marking Instructions AO Marks Typical Solution
+7(b) Explains what happens to one
+component of the impulse.
+
+2.4 M 1 Any friction would not cause a
+change in the velocities
+perpendicular to the wall and so
+the magnitude of the component of
+the impulse perpendicular to the
+wall would be unchanged.
+There will be a component of the
+impulse parallel to the wall and so
+the magnitude of the total impulse
+would increase.
+Explains what will happen to the
+other component of the impulse
+and that the magnitude will
+increase.
+2.4 R 1
+(^) Subtotal 2
+Question total 10
+
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3M – JUNE 2024
+Q Marking Instructions AO Marks Typical Solution
+8(a)(i) Sets up integral(s) to find the
+centre of mass.
+Condone lack of ρ
+3 M
+πd×=πd
+ππ
+×=
+×
+==
+×
+(^5522)
+00
+22
+( ) ( )
+125 625
+34
+625 3 15
+4 125 4
+ρ kx x x ρx kx x
+ρ k ρ k
+x
+x
+
+
+which is independent of k
+Forms two correct integrals.
+Condone lack of ρ or missing d x 1.1b^ A^
+Evaluates at least one integral to
+obtain
+125
+3
+or
+625
+4
+1.1b A 1
+Completes a reasoned argument to
+show that x is independent of k
+2.1 R 1
+(^) Must include ρ
+(^) Subtotal 4
+Q Marking Instructions AO Marks Typical Solution
+8(a)(ii)
+Obtains
+5
+4
+OE
+Follow through their x
+3.4 B 1 F
+Distance from base = =–
+15 5
+5
+44
+(^) Subtotal 1
+Q Marking Instructions AO Marks Typical Solution
+8(b) States uniform 3.5b B 1 The cone is a uniform solid.
+(^) Subtotal 1
+
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3M – JUNE 2024
+Q Marking Instructions AO Marks Typical Solution
+8(c) (^) Obtains tan α = 0.8 or AWRT 38.7
+.
+
+3 B 1 On the point of sliding
+tan α = 0.
+On the point of toppling
+==
+k
+αk
+5
+tan 4
+1.
+If the cone slides before it topples
+0.8 < 4 k
+k >
+1
+5
+Finds an expression for tan α on the
+point of toppling using 5 k and their
+5
+4
+3.3 M 1
+Obtains a correct expression for
+tan α on the point of toppling.
+1.1b A 1
+Deduces that k >
+1
+5
+2.2a R 1
+(^) Subtotal 4
+(^) Question total 10
+
+MARK SCHEME – A-LEVEL FURTHER MATHEMATICS – 7367/3M – JUNE 2024
+Q Marking Instructions AO Marks Typical Solution
+9 (a) Resolves radially at the point C. 3.3 M
+
+( )
+=
+==
+= + +
+= + +
+= + +
+= + +
+=+
+=+
+mv
+mg
+a
+ag
+v ag
+mU mv mga
+U v ga
+ag
+U ga
+U ag
+U ag
+ag
+U
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+2
+22
+22
+2
+2
+2
+2
+cos
+3
+cos
+2
+11
+(1 cos30 )
+22
+2 (1 cos30 )
+33
+21
+22
+3
+23
+2
+3
+23
+2
+4 3 3
+2
+Obtains a correct expression for
+the speed or speed squared at the
+point C..
+1.1b A
+Recognises that the initial speed is
+U
+1.1a B 1
+Uses conservation of energy to
+form a three-term equation to find
+the speed or speed squared of the
+particle at the point C.
+Must see consideration of KE at
+two points and change in GPE.
+3.4 M 1
+Obtains a correct energy equation. 1.1b A 1
+Completes a reasoned argument to
+obtain^2 =+(4 3 3)
+2
+ag
+U
+AG
+2.1 R 1
+(^) Subtotal 6
+Q Marking Instructions AO Marks Typical Solution
+(^)
+9 (b) States that air resistance has been
+ignored.
+3.5a M 1 As air resistance has been ignored,
+some energy would be lost so the
+value of U^2 must be greater than
+the value calculated.
+
+>+( )
+ag
+U^2 4 3 3
+2
+States >+( )
+ag
+U^2 4 3 3
+2
+.
+Condone (^2) (4 3 3+ )
+2
+ag
+U 
+2.2b R 1
+Subtotal 2
+Question Total^8
